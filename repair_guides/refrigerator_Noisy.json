@@ -1,0 +1,163 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Noisy",
+  "symptom_id": "Noisy",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Noisy/",
+  "overview": "When your fridge is noisy, find out how to repair it by troubleshooting the location of the noise, from the evaporator fan motor in the freezer to the bottom of the fridge with the condenser fan motor.",
+  "repair_solutions": [
+    {
+      "name": "Condenser Fan Motor",
+      "id": "CondenserFan",
+      "content": "Most modern frost-free refrigerators will have a fan cooled condenser coil. The condenser fan circulates air through the condenser coil to remove heat as well as circulating air over the drain pan to evaporate the defrost water. If your fridge is making a loud noise, the condenser fan motor could be to blame. The condenser fan motor runs at the same time as the evaporator motor and the compressor. In addition to noise, your fridge might not be staying as cool as normal and/or may be turning on and off regularly.\n\nHow to inspect a refrigerator condenser fan motor:\n\nDisconnect your refrigerator from the power source and then remove the rear access panel. Locate the condenser fan motor, it is usually found near the compressor at the bottom rear of the refrigerator. Visually inspect the condenser fan motor for any signs of wear or damage. Look for any debris or obstructions that could be preventing the fan from moving freely. If the fan motor is seized or worn, you will need a replacement condenser fan motor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your refrigerator from the power source and then remove the rear access panel."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate the condenser fan motor, it is usually found near the compressor at the bottom rear of the refrigerator."
+        },
+        {
+          "title": "Step 3",
+          "content": "Visually inspect the condenser fan motor for any signs of wear or damage. Look for any debris or obstructions that could be preventing the fan from moving freely."
+        },
+        {
+          "title": "Step 4",
+          "content": "If the fan motor is seized or worn, you will need areplacement condenser fan motor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1766247_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2060678_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/967022_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement condenser fan motor",
+          "category": "Refrigerator Motors",
+          "url": "https://www.partselect.com/Refrigerator-Motors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Evaporator Fan Motor",
+      "id": "EvaporatorFan",
+      "content": "The evaporator fan motor is responsible for pulling air over the evaporator coils when the compressor is running. If your refrigerator is making a loud noise that appears to be coming from the freezer area, a faulty evaporator fan motor could be to blame. You may also notice that your refrigerator is not staying as cold as normal, or your ice is taking longer to freeze.\n\nHow to inspect a refrigerator evaporator fan motor:\n\nAfter unplugging your refrigerator, remove the evaporator fan cover. The evaporator fan cover is located inside the unit in the freezer compartment. Inspect the evaporator motor for any signs of wear or damage. If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue. Attempt to manually turn the motor shaft, it should turn freely with minimal resistance. If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "After unplugging your refrigerator, remove the evaporator fan cover. The evaporator fan cover is located inside the unit in the freezer compartment."
+        },
+        {
+          "title": "Step 2",
+          "content": "Inspect the evaporator motor for any signs of wear or damage. If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue."
+        },
+        {
+          "title": "Step 3",
+          "content": "Attempt to manually turn the motor shaft, it should turn freely with minimal resistance."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you cannot turn it easily, or if it is noticeably worn, you need areplacement evaporator fan motor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2062154_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2004031_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2341874_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement evaporator fan motor",
+          "category": "Refrigerator Motors",
+          "url": "https://www.partselect.com/Refrigerator-Motors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Evaporator Fan Motor Grommet",
+      "id": "EvaporatorFanMotor",
+      "content": "The evaporator fan motor grommet is used to isolate the motor from the mounting bracket and reduce vibration noise. Regular wear and tear can cause the grommets to wear or become detached, which can increase vibration and cause excess noise.\n\nHow to check a refrigerator\u2019s evaporator fan motor grommets:\n\nUnplug your refrigerator. Remove the evaporator fan cover, which will be found inside the freezer compartment. Inspect the grommet to see if it has fallen off, or it if is showing signs of wear or damage.. If any of the above are true, you will need a replacement evaporator fan motor grommet .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the evaporator fan cover, which will be found inside the freezer compartment."
+        },
+        {
+          "title": "Step 3",
+          "content": "Inspect the grommet to see if it has fallen off, or it if is showing signs of wear or damage.."
+        },
+        {
+          "title": "Step 4",
+          "content": "If any of the above are true, you will need areplacement evaporator fan motor grommet."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/963756_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/773826_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/963709_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement evaporator fan motor grommet",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Hardware.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "nxHx8mhOnvY",
+      "url": "https://www.youtube.com/watch?v=nxHx8mhOnvY",
+      "title": "How To Fix A Noisy Refrigerator"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "CondenserFan",
+      "name": "Condenser Fan Motor"
+    },
+    {
+      "id": "EvaporatorFan",
+      "name": "Evaporator Fan Motor"
+    },
+    {
+      "id": "EvaporatorFanMotor",
+      "name": "Evaporator Fan Motor Grommet"
+    }
+  ],
+  "structured_info": {
+    "solutions": [
+      {
+        "name": "Condenser Fan Motor",
+        "root_cause": "Faulty condenser fan motor causing noise and improper cooling of the refrigerator.",
+        "difficulty_level": "Medium",
+        "tools_needed": "Replacement condenser fan motor",
+        "safety_precautions": "Disconnect the refrigerator from the power source before starting the inspection.",
+        "key_symptoms": "Loud noise, refrigerator not staying cool, frequent on/off cycles"
+      },
+      {
+        "name": "Evaporator Fan Motor",
+        "root_cause": "Faulty evaporator fan motor causing noise and inadequate cooling in the freezer area.",
+        "difficulty_level": "Medium",
+        "tools_needed": "Replacement evaporator fan motor",
+        "safety_precautions": "Unplug the refrigerator before beginning the inspection.",
+        "key_symptoms": "Loud noise from freezer area, refrigerator not cooling properly, slow ice formation"
+      },
+      {
+        "name": "Evaporator Fan Motor Grommet",
+        "root_cause": "Worn-out or detached grommet causing excess vibration noise from the evaporator fan motor.",
+        "difficulty_level": "Easy",
+        "tools_needed": "Replacement evaporator fan motor grommet",
+        "safety_precautions": "Ensure refrigerator is unplugged for safety.",
+        "key_symptoms": "Increased vibration noise, detached or worn grommet"
+      }
+    ]
+  }
+}

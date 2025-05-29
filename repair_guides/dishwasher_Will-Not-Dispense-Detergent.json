@@ -1,0 +1,282 @@
+{
+  "appliance_type": "Dishwasher",
+  "symptom": "Will not dispense detergent",
+  "symptom_id": "Will-Not-Dispense-Detergent",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/",
+  "overview": "Learn how to repair a dishwasher that will not dispense detergent by testing the bi-metal release, wax motor and timer.",
+  "repair_solutions": [
+    {
+      "name": "Detergent & Rinse Aid Dispensers",
+      "id": "DetergentAndRinse",
+      "content": "The detergent dispenser is designed to release detergent into the dishwasher tub during the wash cycles and will typically have two compartments, an unsealed compartment for prewash and a sealed compartment for the main wash cycle.\n\nHow to inspect a dishwasher dispenser:\n\nDisconnect your appliance from the power source. Locate your dispenser, you will not need to remove it to inspect it. It will most likely be found attached to the inside of the dishwasher door. Visually inspect the dispenser for any signs of cracking, discoloration, or damage. If you find any caked-on detergent or debris on the dispenser, thoroughly clean it with a wet cloth. If you find any of the above issues, you will need a replacement dispenser .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power source."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate your dispenser, you will not need to remove it to inspect it. It will most likely be found attached to the inside of the dishwasher door."
+        },
+        {
+          "title": "Step 3",
+          "content": "Visually inspect the dispenser for any signs of cracking, discoloration, or damage. If you find any caked-on detergent or debris on the dispenser, thoroughly clean it with a wet cloth."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any of the above issues, you will need areplacement dispenser."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1481889_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2360750_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2360750_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement dispenser",
+          "category": "Dishwasher Dispensers",
+          "url": "https://www.partselect.com/Dishwasher-Dispensers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Rinse Aid Cap",
+      "id": "RinseAid",
+      "content": "The rinse aid cap could be the reason why your dishwasher is not releasing rinse aid. The rinse aid cap could be loose and may just need to be refitted, but could also be warped or damaged from the heat of the water in the dishwasher.\n\nHow to inspect a dishwasher rinse aid cap:\n\nThis is a very simple inspection; no tools or disassembly will be needed. The rinse aid dispensing cap is located on the inner door panel of your dishwasher. Remove the cap from the door in order to inspect it. Looking for any signs of melting, warping, cracking, or discoloration, visually inspect the rinse aid cap. If you find any issues while performing the inspection above, you will need a replacement rinse aid cap .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "This is a very simple inspection; no tools or disassembly will be needed."
+        },
+        {
+          "title": "Step 2",
+          "content": "The rinse aid dispensing cap is located on the inner door panel of your dishwasher. Remove the cap from the door in order to inspect it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Looking for any signs of melting, warping, cracking, or discoloration, visually inspect the rinse aid cap."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues while performing the inspection above, you will need areplacement rinse aid cap."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402316_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/958932_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/421128_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement rinse aid cap",
+          "category": "Dishwasher Caps and Lids",
+          "url": "https://www.partselect.com/Dishwasher-Caps-and-Lids.htm"
+        }
+      ]
+    },
+    {
+      "name": "Door Spring & Hinge Pin",
+      "id": "DoorSpringAnd",
+      "content": "If your dishwasher is not dispensing detergent, the spring and hinge pin on the dispenser door could be the problem. The dispenser door is spring loaded and is held in the closed position by a catch.\n\nHow to inspect the door spring & hinge pin in a dishwasher:\n\nNo tools or disassembly will be required; this is a very simple inspection. The door spring & hinge pin will be found on the inside of the dishwasher door, on some models it may be covered by the detergent dispenser assembly. Remove any components covering it if applicable. Visually inspect the spring and pin to see if they are bent, broken, corroded, or otherwise damaged. If you find any issues with your spring and pin, you will need a replacement door spring & hinge pin .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "No tools or disassembly will be required; this is a very simple inspection."
+        },
+        {
+          "title": "Step 2",
+          "content": "The door spring & hinge pin will be found on the inside of the dishwasher door, on some models it may be covered by the detergent dispenser assembly. Remove any components covering it if applicable."
+        },
+        {
+          "title": "Step 3",
+          "content": "Visually inspect the spring and pin to see if they are bent, broken, corroded, or otherwise damaged."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues with your spring and pin, you will need areplacement door spring & hinge pin."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/343430_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2097827_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/815938_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement door spring & hinge pin",
+          "category": "Dishwasher Springs and Shock Absorbers",
+          "url": "https://www.partselect.com/Dishwasher-Springs-and-Shock-Absorbers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Wax Motor",
+      "id": "WaxMotor",
+      "content": "The wax motor is used in newer model dishwashers to release the detergent dispenser door catch. If the wax motor is not working properly, then the dispenser door will not open to release the detergent. The wax motor acts as a solenoid when activated by the dishwasher\u2019s timer or control, and the piston operates the mechanism that will release the catch for the dispenser door.\n\nHow to test a dishwasher wax motor with a multimeter:\n\nDisconnect your appliance from the power source before beginning. Depending on your model, you will need to remove the external door panel or the internal door panel in order to access the wax motor, which will be located near the detergent dispenser cup. Remove the wax motor in order to test it. Using a multimeter on the Rx1 setting, touch the probes to one terminal each to test it. If you receive a reading of infinity, the motor is defective. If your motor fails the test above, you will need a replacement wax motor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power source before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Depending on your model, you will need to remove the external door panel or the internal door panel in order to access the wax motor, which will be located near the detergent dispenser cup. Remove the wax motor in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multimeter on the Rx1 setting, touch the probes to one terminal each to test it. If you receive a reading of infinity, the motor is defective."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your motor fails the test above, you will need areplacement wax motor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2020068_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099296_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1777057_3_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement wax motor",
+          "category": "Dishwasher Motors",
+          "url": "https://www.partselect.com/Dishwasher-Motors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Bi-Metal Release",
+      "id": "Bi-MetalRelease",
+      "content": "Some older model dishwashers use a bi-metal release to operate the detergent dispenser door catch. The bi-metal release uses electric current to create a mechanical action to release the door catch.\n\nHow to test a dishwasher bi-metal release with a multimeter:\n\nDisconnect your appliance from the power source before beginning this or any other test. Locate the bi-metal release. Depending on your model, you will need to remove either the internal or the external door panel in order to access the bi-metal release. Before removing the release, with the panel removed you should check the alignment of the release. You can do this by closing the detergent cup and pushing in on the metal with a small screwdriver until the detergent cup opens. Often only a slight adjustment is needed to solve this issue. If this did not fix your issue, remove the release, set your multimeter to Rx1, and touch the probes to the release\u2019s terminals. If your multimeter shows a reading of infinity, your release is defective. If your test results indicate your release is faulty, you will need a replacement bi-metal release .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power source before beginning this or any other test."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate the bi-metal release. Depending on your model, you will need to remove either the internal or the external door panel in order to access the bi-metal release. Before removing the release, with the panel removed you should check the alignment of the release. You can do this by closing the detergent cup and pushing in on the metal with a small screwdriver until the detergent cup opens. Often only a slight adjustment is needed to solve this issue."
+        },
+        {
+          "title": "Step 3",
+          "content": "If this did not fix your issue, remove the release, set your multimeter to Rx1, and touch the probes to the release\u2019s terminals. If your multimeter shows a reading of infinity, your release is defective."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your test results indicate your release is faulty, you will need areplacement bi-metal release."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402064_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402064_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402064_4_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement bi-metal release",
+          "category": "Dishwasher Parts",
+          "url": "https://www.partselect.com/Dishwasher-Parts.htm"
+        }
+      ]
+    },
+    {
+      "name": "Timer",
+      "id": "Timer",
+      "content": "Some models of dishwashers will use the timer to mechanically operate the detergent dispenser. At the proper time in the cycle, the timer will activate a lever that releases the detergent door catch. Check that the linkage between the timer and the door catch is working properly and if not replace it. Verify that the cam on the timer is working properly and replace the timer if defective.\n\nHow to test a dishwasher timer with a multimeter:\n\nBegin by disconnecting the power from your appliance. The timer will most likely be found in your unit\u2019s control panel. You will need to remove all or part of your appliance\u2019s cabinet to access it. Once you have located it, remove the timer from your dishwasher to test it. If your timer has multiple contacts, you will need to refer to your wiring diagram to identify which contacts you should be testing. With your multimeter set to Rx1000, touch each probe to one contact/wire. A normal reading for a dishwasher timer is 2000-3500 ohms of resistance, but this varies from model to model, refer to your owner\u2019s manual to determine what reading you should receive. If your reading is outside the manufacturer\u2019s recommendation, you will need a replacement timer .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by disconnecting the power from your appliance."
+        },
+        {
+          "title": "Step 2",
+          "content": "The timer will most likely be found in your unit\u2019s control panel. You will need to remove all or part of your appliance\u2019s cabinet to access it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Once you have located it, remove the timer from your dishwasher to test it. If your timer has multiple contacts, you will need to refer to your wiring diagram to identify which contacts you should be testing."
+        },
+        {
+          "title": "Step 4",
+          "content": "With your multimeter set to Rx1000, touch each probe to one contact/wire. A normal reading for a dishwasher timer is 2000-3500 ohms of resistance, but this varies from model to model, refer to your owner\u2019s manual to determine what reading you should receive."
+        },
+        {
+          "title": "Step 5",
+          "content": "If your reading is outside the manufacturer\u2019s recommendation, you will need areplacement timer."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/959249_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099088_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099805_4_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement timer",
+          "category": "Dishwasher Timers",
+          "url": "https://www.partselect.com/Dishwasher-Timers.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "title": "How to Fix A Dishwasher That Won't Dispense Detergent",
+      "url": "https://www.youtube.com/watch?v=q5B0FLR1WDM"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "DetergentAndRinse",
+      "name": "Detergent & Rinse Aid Dispensers"
+    },
+    {
+      "id": "RinseAid",
+      "name": "Rinse Aid Cap"
+    },
+    {
+      "id": "DoorSpringAnd",
+      "name": "Door Spring & Hinge Pin"
+    },
+    {
+      "id": "WaxMotor",
+      "name": "Wax Motor"
+    },
+    {
+      "id": "Bi-MetalRelease",
+      "name": "Bi-Metal Release"
+    },
+    {
+      "id": "Timer",
+      "name": "Timer"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": {
+      "Detergent & Rinse Aid Dispensers": "The dispenser may be cracked, discolored, or damaged.",
+      "Rinse Aid Cap": "The cap could be loose, warped, or damaged.",
+      "Door Spring & Hinge Pin": "The spring and hinge pin may be bent, broken, corroded, or damaged.",
+      "Wax Motor": "The wax motor may be defective and not releasing the detergent dispenser door catch.",
+      "Bi-Metal Release": "The bi-metal release may be defective and not operating the detergent dispenser door catch.",
+      "Timer": "The timer may be faulty and not activating the lever to release the detergent door catch."
+    },
+    "tools_needed": {
+      "Detergent & Rinse Aid Dispensers": "Replacement dispenser",
+      "Rinse Aid Cap": "Replacement rinse aid cap",
+      "Door Spring & Hinge Pin": "Replacement door spring & hinge pin",
+      "Wax Motor": "Multimeter, replacement wax motor",
+      "Bi-Metal Release": "Multimeter, replacement bi-metal release",
+      "Timer": "Multimeter, replacement timer"
+    },
+    "safety_precautions": "Disconnect your appliance from the power source before conducting any tests or repairs to ensure safety.",
+    "key_symptoms": {
+      "Detergent & Rinse Aid Dispensers": "Detergent not dispensing, dispenser cracked or damaged",
+      "Rinse Aid Cap": "Rinse aid not dispensing, cap loose or damaged",
+      "Door Spring & Hinge Pin": "Detergent not dispensing, spring or hinge pin damaged",
+      "Wax Motor": "Detergent not dispensing, wax motor not working",
+      "Bi-Metal Release": "Detergent not dispensing, bi-metal release not operating",
+      "Timer": "Detergent not dispensing, timer malfunctioning"
+    }
+  }
+}

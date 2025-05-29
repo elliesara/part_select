@@ -1,0 +1,239 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Not dispensing water",
+  "symptom_id": "Not-Dispensing-Water",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/",
+  "overview": "If the water dispenser is not dispensing water then examine key parts such as the water inlet valve and dispenser actuator.",
+  "repair_solutions": [
+    {
+      "name": "Ice & Water Filter",
+      "id": "IceAndWater",
+      "content": "If so equipped, the ice and water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and a fabric filter. Over time the filter may become restricted and reduce or stop the water flow to the dispenser. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.\n\nHow to inspect your refrigerator\u2019s ice and water filter:\n\nConsider when you last changed your ice and water filter. How frequently you need to change your filter varies by model and local water conditions, but you should never exceed 12 months of use per filter. Find and remove your water filter. The exact location differs from model to model, but it is commonly located in the water line leading to the fridge, behind the base grill, or inside the unit attached to the rear corner or ceiling. If your filter is in the water line, you will need to disconnect the water supply before beginning. With the variety of locations and removal instructions, we recommend you follow brand specific directions , or refer to your owner\u2019s manual for specific directions. Take note of the installation date on your calendar before installing the new filter. If your filter is damaged or clogged, or if you have exceeded the manufacturers\u2019 recommended guidelines, you will need a replacement ice and water filter .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Consider when you last changed your ice and water filter. How frequently you need to change your filter varies by model and local water conditions, but you should never exceed 12 months of use per filter."
+        },
+        {
+          "title": "Step 2",
+          "content": "Find and remove your water filter. The exact location differs from model to model, but it is commonly located in the water line leading to the fridge, behind the base grill, or inside the unit attached to the rear corner or ceiling. If your filter is in the water line, you will need to disconnect the water supply before beginning."
+        },
+        {
+          "title": "Step 3",
+          "content": "With the variety of locations and removal instructions, we recommend you followbrand specific directions, or refer to your owner\u2019s manual for specific directions. Take note of the installation date on your calendar before installing the new filter."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your filter is damaged or clogged, or if you have exceeded the manufacturers\u2019 recommended guidelines, you will need areplacement ice and water filter."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2326380_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/981638_2_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/503619_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "brand specific directions",
+          "category": "Refrigerator Filters",
+          "url": "https://www.partselect.com/Refrigerator+replace-filter+repair.htm"
+        },
+        {
+          "name": "replacement ice and water filter",
+          "category": "Refrigerator Filters",
+          "url": "https://www.partselect.com/Refrigerator-Filters.htm"
+        }
+      ]
+    },
+    {
+      "name": "Water Inlet Valve",
+      "id": "WaterInlet",
+      "content": "The water inlet valve is a solenoid-operated device that supplies water to the dispenser when activated. When water is selected at the dispenser control panel, line voltage is supplied to the solenoid of the water inlet valve to allow water to flow. Verify that you have adequate pressure at the inlet to the valve, that the inlet screen is not plugged and that there are no restrictions in the inlet or outlet tubing.\n\nHow to test your refrigerator\u2019s water inlet valve with a multi-meter:\n\nAfter disconnecting the water supply and unplugging your refrigerator, remove the rear access panel and locate the water inlet valve. It is usually found near the bottom of the fridge. Begin by inspecting all the tubing, and their respective connections, for leaks, damage, wear, abrasions, or brittle tubing. If you do not locate the source of the leak in the above checks, remove the water inlet valve to test it. With a multi-meter in Rx1 mode, touch the terminals with the probes to test for continuity. A functional water inlet valve should put off a reading of 200 to 500 ohms. If you receive any other reading, you need a replacement water inlet valve .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "After disconnecting the water supply and unplugging your refrigerator, remove the rear access panel and locate the water inlet valve. It is usually found near the bottom of the fridge."
+        },
+        {
+          "title": "Step 2",
+          "content": "Begin by inspecting all the tubing, and their respective connections, for leaks, damage, wear, abrasions, or brittle tubing."
+        },
+        {
+          "title": "Step 3",
+          "content": "If you do not locate the source of the leak in the above checks, remove the water inlet valve to test it."
+        },
+        {
+          "title": "Step 4",
+          "content": "With a multi-meter in Rx1 mode, touch the terminals with the probes to test for continuity. A functional water inlet valve should put off a reading of 200 to 500 ohms."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you receive any other reading, you need areplacement water inlet valve."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/304365_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/901314_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2007308_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement water inlet valve",
+          "category": "Refrigerator Valves",
+          "url": "https://www.partselect.com/Refrigerator-Valves.htm"
+        }
+      ]
+    },
+    {
+      "name": "Water Dispenser Actuator",
+      "id": "WaterDispenser",
+      "content": "The water dispenser actuator is the mechanical part that activates the dispenser micro switch. It is normally a plastic lever that pivots when depressed by your water glass, and it may be covered with a soft plastic pad. You can usually hear a click when the switch is contacted.\n\nHow to inspect a refrigerator water dispenser actuator:\n\nUnplug your appliance and turn off the water supply to the refrigerator. Remove the control panel cover and verify that the actuator contacts the dispenser switch properly and if not, check the actuator housing bracket, switch mounting bracket and the actuator pivot itself. If you find any issues, you may need a replacement water dispenser actuator . If the actuator is contacting the switch, you will need to check the switch or control board for the source of the problem.\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your appliance and turn off the water supply to the refrigerator."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the control panel cover and verify that the actuator contacts the dispenser switch properly and if not, check the actuator housing bracket, switch mounting bracket and the actuator pivot itself."
+        },
+        {
+          "title": "Step 3",
+          "content": "If you find any issues, you may need areplacement water dispenser actuator. If the actuator is contacting the switch, you will need to check the switch or control board for the source of the problem."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1526383_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1526381_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1526418_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement water dispenser actuator",
+          "category": "Refrigerator Dispensers",
+          "url": "https://www.partselect.com/Refrigerator-Dispensers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Micro Switch",
+      "id": "MicroSwitch",
+      "content": "The dispenser micro switch is a momentary contact switch that when actuated will supply power to the solenoid on the water inlet valve.\n\nHow to test a refrigerator micro switch with a multi-meter:\n\nDisconnect the refrigerator from the power source and turn off the water supply before beginning. Remove the control panel of your refrigerator to locate the switch. It will be found behind the pad or lever that is pressed to dispense water. After removing the switch, set your multi-meter to the Rx1 setting to test your switch for continuity. You should receive a reading of 200 to 500 ohms. If you receive any other reading, you need a replacement micro switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect the refrigerator from the power source and turn off the water supply before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the control panel of your refrigerator to locate the switch. It will be found behind the pad or lever that is pressed to dispense water."
+        },
+        {
+          "title": "Step 3",
+          "content": "After removing the switch, set your multi-meter to the Rx1 setting to test your switch for continuity. You should receive a reading of 200 to 500 ohms."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you receive any other reading, you need areplacement micro switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/324439_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/296176_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/324439_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement micro switch",
+          "category": "Refrigerator Switches",
+          "url": "https://www.partselect.com/Refrigerator-Switches.htm"
+        }
+      ]
+    },
+    {
+      "name": "Dispenser Control Board",
+      "id": "DispenserControl",
+      "content": "Some models of refrigerators use an electronic control to supply power to the water inlet valve. If you have verified that the water inlet valve is not getting power and the actuator and switch are operating properly, then you may have a defective electronic control.\n\nHow to inspect a refrigerator\u2019s dispenser control board:\n\nBegin by turning off the water supply and unplugging your refrigerator. The dispenser control board is usually located on the freezer door and it\u2019s where you select all the settings for your refrigerator. Remove the frame holding the control board in place, using caution to not break or crack the frame as your remove it. Inspect the dispenser control board for any signs of damage, wear, burning, or shorted connections. If you find any of the above issues, you will need a replacement dispenser control board .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by turning off the water supply and unplugging your refrigerator."
+        },
+        {
+          "title": "Step 2",
+          "content": "The dispenser control board is usually located on the freezer door and it\u2019s where you select all the settings for your refrigerator."
+        },
+        {
+          "title": "Step 3",
+          "content": "Remove the frame holding the control board in place, using caution to not break or crack the frame as your remove it."
+        },
+        {
+          "title": "Step 4",
+          "content": "Inspect the dispenser control board for any signs of damage, wear, burning, or shorted connections."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you find any of the above issues, you will need areplacement dispenser control board."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2060636_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/966913_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2067765_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement dispenser control board",
+          "category": "Refrigerator Circuit Boards and Touch Pads",
+          "url": "https://www.partselect.com/Refrigerator-Circuit-Boards-and-Touch-Pads.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "Q8PMGWyvry4",
+      "url": "https://www.youtube.com/watch?v=Q8PMGWyvry4",
+      "title": "How To A Fix Refrigerator That's Not Dispensing Water"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "IceAndWater",
+      "name": "Ice & Water Filter"
+    },
+    {
+      "id": "WaterInlet",
+      "name": "Water Inlet Valve"
+    },
+    {
+      "id": "WaterDispenser",
+      "name": "Water Dispenser Actuator"
+    },
+    {
+      "id": "MicroSwitch",
+      "name": "Micro Switch"
+    },
+    {
+      "id": "DispenserControl",
+      "name": "Dispenser Control Board"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": "The possible root causes of a refrigerator not dispensing water could be a clogged or damaged water filter, a faulty water inlet valve, a malfunctioning water dispenser actuator, a defective micro switch, or a faulty dispenser control board.",
+    "difficulty_level": "Medium",
+    "tools_needed": [
+      "Replacement ice and water filter",
+      "Multi-meter",
+      "Replacement water inlet valve",
+      "Replacement water dispenser actuator",
+      "Replacement micro switch",
+      "Replacement dispenser control board"
+    ],
+    "safety_precautions": "Before starting any repair work on the refrigerator, always unplug the appliance and turn off the water supply to ensure safety.",
+    "key_symptoms": [
+      "No water dispensing from the refrigerator",
+      "Clicking sound may be heard when the water dispenser is activated"
+    ]
+  }
+}

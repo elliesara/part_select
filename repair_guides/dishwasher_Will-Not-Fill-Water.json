@@ -1,0 +1,210 @@
+{
+  "appliance_type": "Dishwasher",
+  "symptom": "Will not fill with water",
+  "symptom_id": "Will-Not-Fill-Water",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/",
+  "overview": "Diagnose why your dishwasher will not fill with water by checking and testing a water inlet valve, float switch and door switch.",
+  "repair_solutions": [
+    {
+      "name": "Water Inlet Valve",
+      "id": "WaterInlet",
+      "content": "The water inlet valve is used to fill the dishwasher with the proper amount of hot water and is controlled by the timer or electronic control. The valve will be located behind the lower access panel and will have two wires attached to it, an outlet hose to the tub and a hot water inlet from the household supply. If your dishwasher does not fill, then you should first check the inlet supply to verify that you have enough water pressure.\n\nHow to inspect a dishwasher water inlet valve:\n\nUnplug your dishwasher and disconnect the water supply before starting. Locate your water inlet valve. It is commonly found on the lower left side of your dishwasher. You likely will need to remove the lower access panel to locate it. Looking for any signs of damage, wear, or cracking, visually inspect the water inlet valve. If your valve shows signs of any of the symptoms described above, you will need a replacement water inlet valve .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your dishwasher and disconnect the water supply before starting."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate your water inlet valve. It is commonly found on the lower left side of your dishwasher. You likely will need to remove the lower access panel to locate it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Looking for any signs of damage, wear, or cracking, visually inspect the water inlet valve."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your valve shows signs of any of the symptoms described above, you will need areplacement water inlet valve."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2348011_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/259368_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/335523_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement water inlet valve",
+          "category": "Dishwasher Valves",
+          "url": "https://www.partselect.com/Dishwasher-Valves.htm"
+        }
+      ]
+    },
+    {
+      "name": "Float",
+      "id": "Float",
+      "content": "A malfunctioning float could cause the dishwasher to not fill with water. The acts as a safety device that prevents the dishwasher from overfilling with water. The float rises with the water level in the dishwasher and when the proper level is reached, the float will trigger the float switch to turn off the water inlet valve.\n\nHow to check a dishwasher float assembly:\n\nBefore beginning, verify that you have unplugged your appliance. Begin by opening your dishwasher door and removing the cover over the float assembly. Once you\u2019ve done that, manually lift the float and let it drop multiple times, it should move freely, if it does not, remove the float to remove any foreign objects in the guide tube. You should also inspect the float for any visible wear or damage. Remove the lower access panel to determine if the float is mechanically engaging with the float switch. If you find any issues while performing this inspection, you will need a replacement float .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Before beginning, verify that you have unplugged your appliance."
+        },
+        {
+          "title": "Step 2",
+          "content": "Begin by opening your dishwasher door and removing the cover over the float assembly. Once you\u2019ve done that, manually lift the float and let it drop multiple times, it should move freely, if it does not, remove the float to remove any foreign objects in the guide tube. You should also inspect the float for any visible wear or damage."
+        },
+        {
+          "title": "Step 3",
+          "content": "Remove the lower access panel to determine if the float is mechanically engaging with the float switch."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues while performing this inspection, you will need areplacement float."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/396493_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099743_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/393089_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement float",
+          "category": "Dishwasher Parts",
+          "url": "https://www.partselect.com/Dishwasher-Parts.htm"
+        }
+      ]
+    },
+    {
+      "name": "Float Switch",
+      "id": "FloatSwitch",
+      "content": "When the float switch is triggered by the float, power to the water inlet valve is interrupted and it stops the flow of water into the dishwasher.\n\nHow to test a dishwasher float switch with a multimeter:\n\nDisconnect your dishwasher from the power source before beginning this inspection; you will be handling electrical components. Locate and remove the float switch. It will be found behind the lower access panel, sitting directly below the float assembly. Use caution when disconnecting the wires from the switch, do not pull directly on the wires. Once you have removed it, test the float switch by setting your multimeter to Rx1 and touching the probes to the switch\u2019s terminals. This should produce a reading of zero or infinity. With the probes still touching the terminals, press in on the switch\u2019s button, this should change the reading to the opposite extreme (from zero to infinity or infinity to zero). If your test results produce readings that differ from the above, you will need a replacement float switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your dishwasher from the power source before beginning this inspection; you will be handling electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate and remove the float switch. It will be found behind the lower access panel, sitting directly below the float assembly. Use caution when disconnecting the wires from the switch, do not pull directly on the wires."
+        },
+        {
+          "title": "Step 3",
+          "content": "Once you have removed it, test the float switch by setting your multimeter to Rx1 and touching the probes to the switch\u2019s terminals. This should produce a reading of zero or infinity. With the probes still touching the terminals, press in on the switch\u2019s button, this should change the reading to the opposite extreme (from zero to infinity or infinity to zero)."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your test results produce readings that differ from the above, you will need areplacement float switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1663207_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402320_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099601_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement float switch",
+          "category": "Dishwasher Switches",
+          "url": "https://www.partselect.com/Dishwasher-Switches.htm"
+        }
+      ]
+    },
+    {
+      "name": "Door Switch",
+      "id": "DoorSwitch",
+      "content": "The door switch is a simple on/off mechanism that prohibits the dishwasher from operating when the door is open. If the door switch or switches are malfunctioning the dishwasher will not fill with water.\n\nHow to test a dishwasher door switch with a multimeter:\n\nBefore beginning, ensure that you unplug your appliance as you will be working with electrical components. The door switch is typically located behind the door panel at the top of the door. You will need to separate the inner door from the outer door in order to access the switch. Once you have located it, remove the door switch in order to test it for continuity. Using a multimeter set to Rx1, test for continuity by touching one probe to the COM terminal and the other probe to the N.O. Terminal. With the actuator NOT pushed in, your reading should be infinity. Next, keeping the probes on the terminals, press in on the actuator until you hear a click, this should change the reading to zero. If the results of your test do not match the results above, you will need a replacement door switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Before beginning, ensure that you unplug your appliance as you will be working with electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "The door switch is typically located behind the door panel at the top of the door. You will need to separate the inner door from the outer door in order to access the switch. Once you have located it, remove the door switch in order to test it for continuity."
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multimeter set to Rx1, test for continuity by touching one probe to the COM terminal and the other probe to the N.O. Terminal. With the actuator NOT pushed in, your reading should be infinity. Next, keeping the probes on the terminals, press in on the actuator until you hear a click, this should change the reading to zero."
+        },
+        {
+          "title": "Step 4",
+          "content": "If the results of your test do not match the results above, you will need areplacement door switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099601_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2100086_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/393148_2_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement door switch",
+          "category": "Dishwasher Switches",
+          "url": "https://www.partselect.com/Dishwasher-Switches.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "title": "How To Fix A Dishwasher That Will Not Fill With Water",
+      "url": "https://www.youtube.com/watch?v=9UxFcTXFewQ"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "WaterInlet",
+      "name": "Water Inlet Valve"
+    },
+    {
+      "id": "Float",
+      "name": "Float"
+    },
+    {
+      "id": "FloatSwitch",
+      "name": "Float Switch"
+    },
+    {
+      "id": "DoorSwitch",
+      "name": "Door Switch"
+    }
+  ],
+  "structured_info": {
+    "root_cause": {
+      "Water Inlet Valve": "Insufficient water pressure or a faulty valve can prevent the dishwasher from filling with water.",
+      "Float": "A malfunctioning float can prevent the dishwasher from filling or overfilling with water.",
+      "Float Switch": "A faulty float switch can interrupt power to the water inlet valve, leading to a lack of water flow into the dishwasher.",
+      "Door Switch": "A malfunctioning door switch can prevent the dishwasher from operating when the door is open, thereby not allowing it to fill with water."
+    },
+    "tools_needed": [
+      "Multimeter",
+      "Replacement water inlet valve",
+      "Replacement float",
+      "Replacement float switch",
+      "Replacement door switch"
+    ],
+    "safety_precautions": [
+      "Unplug the dishwasher before starting any inspection or repair work.",
+      "Handle electrical components with caution; always disconnect power before working on electrical parts.",
+      "Use protective gear like gloves and safety goggles when necessary."
+    ],
+    "key_symptoms": {
+      "Water Inlet Valve": [
+        "Dishwasher not filling with water",
+        "Low water pressure"
+      ],
+      "Float": [
+        "Dishwasher not filling with water",
+        "Overfilling of dishwasher"
+      ],
+      "Float Switch": [
+        "No water flow into dishwasher"
+      ],
+      "Door Switch": [
+        "Dishwasher not filling with water",
+        "Dishwasher not operating with door closed"
+      ]
+    }
+  }
+}

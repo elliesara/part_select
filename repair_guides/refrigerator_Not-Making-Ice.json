@@ -1,0 +1,222 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Ice maker not making ice",
+  "symptom_id": "Not-Making-Ice",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/",
+  "overview": "Learn how to fix your ice maker when it's not making ice and inspect the water fill tubes, water inlet valve and the icemaker.",
+  "repair_solutions": [
+    {
+      "name": "Water Fill Tubes",
+      "id": "WaterFill",
+      "content": "Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.\n\nHow to inspect your refrigerator\u2019s water fill tubes:\n\nBefore beginning, disconnect both the power and water source from your refrigerator. At the back of the icemaker, inspect the fill tube and the fill cup area at the back of the ice maker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup. Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions. If you find any issues while performing the checks above, you will need replacement water fill tubes .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Before beginning, disconnect both the power and water source from your refrigerator."
+        },
+        {
+          "title": "Step 2",
+          "content": "At the back of the icemaker, inspect the fill tube and the fill cup area at the back of the ice maker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup."
+        },
+        {
+          "title": "Step 3",
+          "content": "Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues while performing the checks above, you will needreplacement water fill tubes."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1738178_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/299643_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/429359_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement water fill tubes",
+          "category": "Refrigerator Hoses and Tubes",
+          "url": "https://www.partselect.com/Refrigerator-Hoses-and-Tubes.htm"
+        }
+      ]
+    },
+    {
+      "name": "Water Inlet Valve",
+      "id": "WaterInlet",
+      "content": "Some water inlet valves may have a screen to filter debris before it can enter the valve. If the screen is plugged, water flow will be restricted, and the result will be small or layered ice cubes. Remove and clean the screen if it is clogged. If dirt has gotten into the valve it may not shut off completely and will continuously drip water into the ice maker fill tube and will eventually freeze up. Low household water pressure or a restriction at the manual shut off valve will also cause the water inlet valve to not shut off completely and create this same condition. Self piercing saddle valves are the most common shut off valve to cause this problem as the hole that is pierced in the water line is often too small and will more easily become restricted.\n\nHow to check the water inlet valve in a refrigerator with a multi-meter:\n\nDisconnect your appliance from the power and water source before beginning. Remove the rear access panel and locate your water inlet valve, it is usually found near the bottom. Before removing the inlet valve, look for any signs of leaks or loose connectors in the valve inlet supply. If no issues are found, inspect the valve body for any cracks or damage. Inspect the outlet tubing for any brittle tubing, abrasions, cracks, or any other damage. If you do not locate any leaks, disconnect the water inlet valve and remove it from the refrigerator to test it Set your multi-meter to the Rx1 setting and touch the terminals with the probes. You are testing for continuity and should receive a reading of 200 to 500 ohms. If you receive any other reading, you need a replacement water inlet valve .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power and water source before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the rear access panel and locate your water inlet valve, it is usually found near the bottom."
+        },
+        {
+          "title": "Step 3",
+          "content": "Before removing the inlet valve, look for any signs of leaks or loose connectors in the valve inlet supply. If no issues are found, inspect the valve body for any cracks or damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "Inspect the outlet tubing for any brittle tubing, abrasions, cracks, or any other damage."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you do not locate any leaks, disconnect the water inlet valve and remove it from the refrigerator to test it"
+        },
+        {
+          "title": "Step 6",
+          "content": "Set your multi-meter to the Rx1 setting and touch the terminals with the probes. You are testing for continuity and should receive a reading of 200 to 500 ohms."
+        },
+        {
+          "title": "Step 7",
+          "content": "If you receive any other reading, you need areplacement water inlet valve."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/901314_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2007308_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/966952_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement water inlet valve",
+          "category": "Refrigerator Valves",
+          "url": "https://www.partselect.com/Refrigerator-Valves.htm"
+        }
+      ]
+    },
+    {
+      "name": "Ice & Water Filter",
+      "id": "IceAndWater",
+      "content": "If equipped, the Ice and Water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and fabric filter. Over time, the filter may become restricted and reduce the water flow to the ice maker, causing a symptom of little or no ice. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.\n\n\n\nHow to inspect your refrigerator\u2019s ice and water filter:\n\nDetermine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter. Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter. Due to the variety of filters and placements we suggest you follow brand specific install instructions or refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar. If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need a replacement ice and water filter .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Determine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter."
+        },
+        {
+          "title": "Step 3",
+          "content": "Due to the variety of filters and placements we suggest you followbrand specific install instructionsor refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar."
+        },
+        {
+          "title": "Step 4",
+          "content": "If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need areplacement ice and water filter."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/879461_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/981638_2_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/733850_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "brand specific install instructions",
+          "category": "Refrigerator Filters",
+          "url": "https://www.partselect.com/Refrigerator+replace-filter+repair.htm"
+        },
+        {
+          "name": "replacement ice and water filter",
+          "category": "Refrigerator Filters",
+          "url": "https://www.partselect.com/Refrigerator-Filters.htm"
+        }
+      ]
+    },
+    {
+      "name": "Ice Maker Assembly & Replacement Ice Maker",
+      "id": "IceMakerAssembly",
+      "content": "If there are no ice buildup issues or suspected problems with the water supply, then you may have a problem with the ice maker control. The most common type of ice maker used in modern refrigerators is the heat release ice maker. The testing procedure for the heat release ice maker involves a live voltage test, consequently it should only be performed by a qualified professional. However, the issue may also be related to the water fill system or the ice maker assembly.\n\nHow to inspect your refrigerator\u2019s ice maker assembly:\n\nBegin by disconnecting the water source and unplugging your refrigerator. Open the freezer door in order to inspect the fill cup area and the fill tube itself for any signs of damage, wear, or freezing. Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions. If there is an ice buildup in either area, confirm no foreign objects have disrupted the flow of water into the fill cup, and allow the freezer to defrost to see if that resolves the issue. If any issues are found while performing the checks above & defrosting the freezer did not solve the issue, you will need a replacement ice maker assembly . If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by disconnecting the water source and unplugging your refrigerator."
+        },
+        {
+          "title": "Step 2",
+          "content": "Open the freezer door in order to inspect the fill cup area and the fill tube itself for any signs of damage, wear, or freezing."
+        },
+        {
+          "title": "Step 3",
+          "content": "Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions."
+        },
+        {
+          "title": "Step 4",
+          "content": "If there is an ice buildup in either area, confirm no foreign objects have disrupted the flow of water into the fill cup, and allow the freezer to defrost to see if that resolves the issue."
+        },
+        {
+          "title": "Step 5",
+          "content": "If any issues are found while performing the checks above & defrosting the freezer did not solve the issue, you will need areplacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/358591_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/869316_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2341896_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement ice maker assembly",
+          "category": "Refrigerator Ice Makers",
+          "url": "https://www.partselect.com/Refrigerator-Ice-Makers.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "I6Sgbo-CB3s",
+      "url": "https://www.youtube.com/watch?v=I6Sgbo-CB3s",
+      "title": "How To Fix A Refrigerator That's Not Making Ice"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "WaterFill",
+      "name": "Water Fill Tubes"
+    },
+    {
+      "id": "WaterInlet",
+      "name": "Water Inlet Valve"
+    },
+    {
+      "id": "IceAndWater",
+      "name": "Ice & Water Filter"
+    },
+    {
+      "id": "IceMakerAssembly",
+      "name": "Ice Maker Assembly & Replacement Ice Maker"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": {
+      "Water Fill Tubes": "Ice maker not receiving water due to frozen fill tube or restricted water flow.",
+      "Water Inlet Valve": "Water inlet valve may be clogged or damaged, preventing proper water flow into the ice maker.",
+      "Ice & Water Filter": "Restricted water flow due to a clogged or expired ice and water filter.",
+      "Ice Maker Assembly & Replacement Ice Maker": "Issues with the ice maker control, water fill system, or ice maker assembly."
+    },
+    "difficulty_level": "Medium",
+    "tools_needed": [
+      "Multi-meter",
+      "Replacement water fill tubes (if needed)",
+      "Replacement water inlet valve (if needed)",
+      "Replacement ice and water filter (if needed)",
+      "Replacement ice maker assembly (if needed)"
+    ],
+    "safety_precautions": [
+      "Disconnect power and water sources before starting any repair work.",
+      "Use caution when handling electrical components.",
+      "Follow manufacturer guidelines for replacement parts."
+    ],
+    "key_symptoms": {
+      "Ice Maker Not Making Ice": [
+        "No ice cubes or very small cubes in the ice maker mold.",
+        "Little or no ice production."
+      ]
+    }
+  }
+}

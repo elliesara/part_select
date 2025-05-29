@@ -1,0 +1,150 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Leaking",
+  "symptom_id": "Leaking",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Leaking/",
+  "overview": "Diagnose the reason for your leaking fridge, from a faulty water inlet valve to a worn out door seal.",
+  "repair_solutions": [
+    {
+      "name": "Door Gaskets Or Seals",
+      "id": "DoorGasketsOr",
+      "content": "Door gaskets or seals are found along the outside of the refrigerator\u2019s doors. They are normally made from a vinyl material and will typically have a flexible magnetic strip inside to adhere to the cabinet when the door is closed to create an airtight seal. If there is moisture along the edge of the door then inspect the gaskets for distortion or damage. Air leakage through a defective gasket will create excessive moisture in the refrigerator, possibly resulting in defrost issues and potential water leaks.\n\nHow to inspect refrigerator door gaskets or seals:\n\nAfter unplugging your refrigerator, open the fridge and freezer doors to inspect the door gaskets or seals. You are looking for any discoloration, mold, wear, missing pieces, or anything else that may prevent a proper seal. If you find any of the above, you will need replacement gaskets or seals .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "After unplugging your refrigerator, open the fridge and freezer doors to inspect the door gaskets or seals."
+        },
+        {
+          "title": "Step 2",
+          "content": "You are looking for any discoloration, mold, wear, missing pieces, or anything else that may prevent a proper seal."
+        },
+        {
+          "title": "Step 3",
+          "content": "If you find any of the above, you will needreplacement gaskets or seals."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2007711_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/313396_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2059557_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement gaskets or seals",
+          "category": "Refrigerator Seals and Gaskets",
+          "url": "https://www.partselect.com/Refrigerator-Seals-and-Gaskets.htm"
+        }
+      ]
+    },
+    {
+      "name": "Water Inlet Valve",
+      "id": "WaterInlet",
+      "content": "The water inlet valve is a solenoid-operated device that connects your household water supply line to your refrigerator if you have an ice maker or water dispenser. When activated, it diverts water from the supply line to the dispenser or to fill your ice maker.\n\nHow to check the water inlet valve in a refrigerator with a multi-meter:\n\nUnplug your refrigerator, disconnect the water supply and locate your water inlet valve. It is usually on the rear of the fridge, near the bottom. You will need to remove the rear panel to access it. Inspect the valve inlet supply connections for leaks and tighten or replace the connectors. You should also inspect the valve body for any cracks or damage. Check the outlet tubing for cracks or abrasions that may also create a leak and replace any cracked or brittle tubing and connectors. If none of the above appear to be the cause of the leak, remove the water inlet valve from the unit. Using a multi-meter on the Rx1 setting, test your valve for conitniuty by placing the probes on the valve\u2019s terminals. You should receive a reading of 200 to 500 ohms. If you receive any other reading, you need a replacement water inlet valve .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator, disconnect the water supply and locate your water inlet valve. It is usually on the rear of the fridge, near the bottom. You will need to remove the rear panel to access it."
+        },
+        {
+          "title": "Step 2",
+          "content": "Inspect the valve inlet supply connections for leaks and tighten or replace the connectors. You should also inspect the valve body for any cracks or damage. Check the outlet tubing for cracks or abrasions that may also create a leak and replace any cracked or brittle tubing and connectors."
+        },
+        {
+          "title": "Step 3",
+          "content": "If none of the above appear to be the cause of the leak, remove the water inlet valve from the unit."
+        },
+        {
+          "title": "Step 4",
+          "content": "Using a multi-meter on the Rx1 setting, test your valve for conitniuty by placing the probes on the valve\u2019s terminals. You should receive a reading of 200 to 500 ohms."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you receive any other reading, you need areplacement water inlet valve."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2007308_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/901314_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/966952_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement water inlet valve",
+          "category": "Refrigerator Valves",
+          "url": "https://www.partselect.com/Refrigerator-Valves.htm"
+        }
+      ]
+    },
+    {
+      "name": "Ice Maker Assembly",
+      "id": "IceMaker",
+      "content": "If your fridge is leaking water from in or around the ice maker, you\u2019re probably also experiencing problems with the ice distribution itself. The cubes may be too small, one solid block of ice or not being produced at all. Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.\n\nHow to inspect a refrigerator\u2019s ice maker assembly:\n\nDisconnect your appliance from both the power source and water source. Inspect the fill tube and the fill cup area at the back of the icemaker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup. Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions. If any issues are found while performing the checks above, you will may a replacement ice maker assembly . If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from both the power source and water source."
+        },
+        {
+          "title": "Step 2",
+          "content": "Inspect the fill tube and the fill cup area at the back of the icemaker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup."
+        },
+        {
+          "title": "Step 3",
+          "content": "Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions."
+        },
+        {
+          "title": "Step 4",
+          "content": "If any issues are found while performing the checks above, you will may areplacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/869316_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/358591_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2341896_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement ice maker assembly",
+          "category": "Refrigerator Ice Makers",
+          "url": "https://www.partselect.com/Refrigerator-Ice-Makers.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "UFqbhptfnwA",
+      "url": "https://www.youtube.com/watch?v=UFqbhptfnwA",
+      "title": "How To Fix Leaking Refrigerator"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "DoorGasketsOr",
+      "name": "Door Gaskets Or Seals"
+    },
+    {
+      "id": "WaterInlet",
+      "name": "Water Inlet Valve"
+    },
+    {
+      "id": "IceMaker",
+      "name": "Ice Maker Assembly"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": {
+      "door_gaskets_or_seals": "Damaged or worn out door gaskets or seals can lead to air leakage, resulting in excessive moisture in the refrigerator and potential water leaks.",
+      "water_inlet_valve": "A faulty water inlet valve can cause leaks in the refrigerator's water supply line, leading to water leakage issues.",
+      "ice_maker_assembly": "Issues with the ice maker assembly, such as a malfunctioning water fill system or inlet valve, can result in water leaks around the ice maker area."
+    },
+    "difficulty_level": "Medium",
+    "tools_needed": "Multi-meter, replacement gaskets or seals, replacement water inlet valve, replacement ice maker assembly",
+    "safety_precautions": "Unplug the refrigerator before starting any inspection or repair work to prevent electrical hazards. When working with water components, ensure that the water supply to the refrigerator is disconnected to avoid potential leaks or water damage.",
+    "key_symptoms": {
+      "door_gaskets_or_seals": "Moisture along the edge of the refrigerator door, potential defrost issues",
+      "water_inlet_valve": "Leaks in the water supply line, visible cracks or damage on the valve body, cracked or brittle tubing",
+      "ice_maker_assembly": "Water leakage in or around the ice maker, irregular ice cube production"
+    }
+  }
+}

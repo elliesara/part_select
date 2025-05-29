@@ -1,0 +1,373 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Fridge and Freezer are too warm",
+  "symptom_id": "Refrigerator-Freezer-Too-Warm",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/",
+  "overview": "Diagnose the causes of why the fridge and freezer are too warm by checking a few key parts such as the defrost timer, defrost heater, defrost thermostat or evaporator fan motor.",
+  "repair_solutions": [
+    {
+      "name": "Cold Control Or Temperature Control",
+      "id": "ColdControlOr",
+      "content": "The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If the compressor and fans are operating normally but not running often enough or long enough to maintain the correct temperatures in the fresh food and freezer sections, then the cold control may be defective or out of calibration. Normal fresh food temperatures are in the 38\u00b0 Fahrenheit range with the control set to mid-point. Verify that the capillary tube or sensing bulb is not damaged or out of position and that the wire terminals are not loose or corroded.\n\nHow to test your fridge\u2019s cold control & temperature control with a multi-meter:\n\nUnplug your refrigerator before beginning, then open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel. After removing the control from the appliance, turn the control to the warmest setting, set your multi-meter to the Rx1 setting and touch the probes to the terminals You are testing for continuity and you should receive a reading of infinity. With the probes still touching the terminals, adjust the control to higher (colder) and higher settings. Your reading should change to zero, indicating that you have continuity. If your control fails either of the tests above, you will need a replacement cold control & temperature control .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator before beginning, then open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel."
+        },
+        {
+          "title": "Step 2",
+          "content": "After removing the control from the appliance, turn the control to the warmest setting, set your multi-meter to the Rx1 setting and touch the probes to the terminals"
+        },
+        {
+          "title": "Step 3",
+          "content": "You are testing for continuity and you should receive a reading of infinity. With the probes still touching the terminals, adjust the control to higher (colder) and higher settings. Your reading should change to zero, indicating that you have continuity."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your control fails either of the tests above, you will need areplacement cold control & temperature control."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/310865_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/470790_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/310865_3_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement cold control & temperature control",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Thermostats.htm"
+        }
+      ]
+    },
+    {
+      "name": "Evaporator Fan Motor",
+      "id": "EvaporatorFan",
+      "content": "The evaporator fan motor is used to circulate the cold air throughout the refrigerator when the compressor is running. If the fan is defective, then temperatures in the freezer section will rise slowly and temperatures in the fresh food section will rise more rapidly and the compressor will run longer and more frequently than normal. With the compressor running you should also hear the evaporator fan running at the same time, as well as the condenser fan which is located next to the compressor.\n\nHow to inspect a refrigerator evaporator fan motor:\n\nDisconnect your refrigerator from the power source and remove the evaporator fan cover, which will be found in the freezer compartment. The motor shaft should turn freely with minimal resistance, attempt to turn the shaft manually to check for any resistance. If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue. You should also inspect the motor for any signs of wear or damage. If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your refrigerator from the power source and remove the evaporator fan cover, which will be found in the freezer compartment."
+        },
+        {
+          "title": "Step 2",
+          "content": "The motor shaft should turn freely with minimal resistance, attempt to turn the shaft manually to check for any resistance."
+        },
+        {
+          "title": "Step 3",
+          "content": "If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue. You should also inspect the motor for any signs of wear or damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you cannot turn it easily, or if it is noticeably worn, you need areplacement evaporator fan motor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2341874_2_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/557957_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2061178_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement evaporator fan motor",
+          "category": "Refrigerator Motors",
+          "url": "https://www.partselect.com/Refrigerator-Motors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Electronic Control Board",
+      "id": "ElectronicControl",
+      "content": "Some newer models of refrigerators may use an electronic control board. Thermistors or temperature sensors are connected to the control board and are used to monitor temperatures in the fresh food and freezer compartments. The control board uses this information to control the operation of the compressor, fan motors and defrost system. If the temperatures are too warm, then the electronic control could be at fault. Electronic controls are complex and expensive and usually reliable, so you should first verify that all of the other components such as the compressor, fans and sensors are operating properly before condemning the control. Some manufacturers may provide specific information that will help in diagnosing a defective control.\n\nHow to inspect your refrigerator\u2019s electronic control board:\n\nUnplug your fridge before beginning as you will be handling electrical components. Locate and remove the electronic control board from your appliance. It is inside of the refrigerator, inside of the control box, which is usually found attached to the top or side of the fridge. Inspect your control board for any signs of damaged foil, wear, burnt connections, arcing, or any other damage. If you find any of the above, you need a replacement electronic control board .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your fridge before beginning as you will be handling electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate and remove the electronic control board from your appliance. It is inside of the refrigerator, inside of the control box, which is usually found attached to the top or side of the fridge."
+        },
+        {
+          "title": "Step 3",
+          "content": "Inspect your control board for any signs of damaged foil, wear, burnt connections, arcing, or any other damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any of the above, you need areplacement electronic control board."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180152_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2364946_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2364946_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement electronic control board",
+          "category": "Refrigerator Circuit Boards and Touch Pads",
+          "url": "https://www.partselect.com/Refrigerator-Circuit-Boards-and-Touch-Pads.htm"
+        }
+      ]
+    },
+    {
+      "name": "Temperature Sensor Or Thermistor",
+      "id": "TemperatureSensorOr",
+      "content": "In models that use an Electronic Control, a thermistor or temperature sensor may be used to monitor fresh food and freezer temperatures. The sensor is a small capsule like device that is protected by a plastic shield and will vary in resistance depending on the temperature. The control board uses this information to turn on the compressor and fan circuits as well as to operate the damper control on some models. If a sensor becomes damaged or defective it may incorrectly signal the control board to turn off the compressor and fans and result in warmer than normal fresh food and freezer temperatures. Individual manufacturers may have specific information available to test these sensors, depending on the model involved, and may also provide a fault code on the electronic control board on some models.\n\nHow to test a refrigerator temperature sensor or thermistor with a multi-meter:\n\nBegin by unplugging your refrigerator, then remove the back panel of your refrigerator to locate the main control board. The thermistor(s) will be connected to the main control board. Remove the thermistor(s) from the appliance in order to test them. Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes in order to bring the temperature to 32 degrees F. The thermistor(s) will produce different readings at different temperatures, and the suggested ranges below only apply to thermistors at a temperature of 32 degrees F. With the probes on the terminals and your multi-meter set to Rx1, you should receive a reading of 16,600 ohms (+/- 5 percent). If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by unplugging your refrigerator, then remove the back panel of your refrigerator to locate the main control board."
+        },
+        {
+          "title": "Step 2",
+          "content": "The thermistor(s) will be connected to the main control board. Remove the thermistor(s) from the appliance in order to test them."
+        },
+        {
+          "title": "Step 3",
+          "content": "Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes in order to bring the temperature to 32 degrees F. The thermistor(s) will produce different readings at different temperatures, and the suggested ranges below only apply to thermistors at a temperature of 32 degrees F."
+        },
+        {
+          "title": "Step 4",
+          "content": "With the probes on the terminals and your multi-meter set to Rx1, you should receive a reading of 16,600 ohms (+/- 5 percent)."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you receive a reading outside this range, you will need areplacement temperature sensor or thermistor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/968736_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/304103_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/304103_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement temperature sensor or thermistor",
+          "category": "Refrigerator Sensors",
+          "url": "https://www.partselect.com/Refrigerator-Sensors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Defrost Timer",
+      "id": "DefrostTimer",
+      "content": "The defrost timer is an electro-mechanical timer that operates a set of contacts that control both the compressor circuit as well as the defrost heater circuit. Most timers will activate a defrost cycle every 8-10 hours of compressor run time. This normally occurs about once every day or two. The defrost timer will normally terminate the defrost cycle after 20 to 30 minutes and the compressor and fans will start again.\n\nHow to test a refrigerator defrost timer with a multi-meter:\n\nDisconnect your appliance from the power source and locate your defrost timer. It can be located behind the refrigerator's lower kickplate, in the refrigerator's control panel, or even behind the refrigerator on its back wall. After locating it, remove the defrost timer from the appliance in order to test it Using a multi-meter on the Rx1 setting, with one probe touching the common terminal (it should be labeled \"3\" or \"C\"), touch the other lead to the other three remaining terminals, one at a time. Testing the first pair should produce a reading of zero, or near zero, denoting continuity. The second pair may also result in a reading of zero or near zero. Testing the third pair of terminals should produce a reading of infinity. If you do not receive these readings, you will need a replacement defrost timer .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power source and locate your defrost timer. It can be located behind the refrigerator's lower kickplate, in the refrigerator's control panel, or even behind the refrigerator on its back wall."
+        },
+        {
+          "title": "Step 2",
+          "content": "After locating it, remove the defrost timer from the appliance in order to test it"
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multi-meter on the Rx1 setting, with one probe touching the common terminal (it should be labeled \"3\" or \"C\"), touch the other lead to the other three remaining terminals, one at a time. Testing the first pair should produce a reading of zero, or near zero, denoting continuity. The second pair may also result in a reading of zero or near zero. Testing the third pair of terminals should produce a reading of infinity."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you do not receive these readings, you will need areplacement defrost timer."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/310858_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2167006_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2072567_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement defrost timer",
+          "category": "Refrigerator Timers",
+          "url": "https://www.partselect.com/Refrigerator-Timers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Defrost Thermostat",
+      "id": "DefrostThermostat",
+      "content": "The defrost thermostat is a safety thermostat in series with the defrost heater and is used to terminate the defrost cycle when the evaporator reaches a specific temperature, usually rated at 38\u00b0 to 47\u00b0 Fahrenheit. If the thermostat is defective and remains open circuit, then the defrost heater will not be energized and no defrosting will take place.\n\nHow to test a refrigerator\u2019s defrost thermostat with a multi-meter:\n\nUnplug your refrigerator and locate your refrigerator's defrost thermostat. In freezer-on-top models, it may be located under the floor of the unit, or it could be found at the back of the freezer. If you have a side-by-side refrigerator, the defrost thermostat is found at the back of the freezer side. Once you have located it, remove the defrost thermostat in order to test it. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel. Set your multi-meter to the Rx1 setting. Place each of the probes on a thermostat wire. When your thermostat is cold, it should produce a reading of zero on your multi-meter. If it is warm (anywhere from forty to ninety degrees Fahrenheit), then this test should produce a reading of infinity. If the results you receive from your test differ from the ones presented here, then you will need a replacement defrost thermostat .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator and locate your refrigerator's defrost thermostat. In freezer-on-top models, it may be located under the floor of the unit, or it could be found at the back of the freezer. If you have a side-by-side refrigerator, the defrost thermostat is found at the back of the freezer side."
+        },
+        {
+          "title": "Step 2",
+          "content": "Once you have located it, remove the defrost thermostat in order to test it. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel."
+        },
+        {
+          "title": "Step 3",
+          "content": "Set your multi-meter to the Rx1 setting. Place each of the probes on a thermostat wire. When your thermostat is cold, it should produce a reading of zero on your multi-meter. If it is warm (anywhere from forty to ninety degrees Fahrenheit), then this test should produce a reading of infinity."
+        },
+        {
+          "title": "Step 4",
+          "content": "If the results you receive from your test differ from the ones presented here, then you will need areplacement defrost thermostat."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1017716_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/371255_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2047350_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement defrost thermostat",
+          "category": "Refrigerator Thermostats",
+          "url": "https://www.partselect.com/Refrigerator-Thermostats.htm"
+        }
+      ]
+    },
+    {
+      "name": "Defrost Heater",
+      "id": "DefrostHeater",
+      "content": "The defrost heater is the device that melts the ice and frost from the evaporator coils. It is typically a wire filament contained in a glass or aluminum tube. There may be more than one heater depending on the shape of the evaporator.\n\nHow to test a refrigerator defrost heater with a multi-meter:\n\nEnsure that you have disconnected your appliance from the power source before beginning. Locate your defrost heater. It can be located behind the back panel of the freezer section of your refrigerator, or under the floor of your refrigerator's freezer section. Defrost heaters are commonly located beneath a refrigerator's evaporator coils. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel. Before you can test your defrost heater, you must remove it from your refrigerator. A defrost heater is connected by two wires, and the wires are connected with slip-on connectors. Firmly grasp these connectors and pull them off the terminals. You may need a pair of needle-nosed pliers to help you. Do not pull on the wires themselves. Use your multi-meter to test the heater for continuity. Set your multi-meter to the Rx1 scale and place the tester's leads on one terminal each. This should produce a reading anywhere in between zero and infinity. If you receive a reading of zero or infinity, you will need a replacement defrost heater .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Ensure that you have disconnected your appliance from the power source before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate your defrost heater. It can be located behind the back panel of the freezer section of your refrigerator, or under the floor of your refrigerator's freezer section. Defrost heaters are commonly located beneath a refrigerator's evaporator coils. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel."
+        },
+        {
+          "title": "Step 3",
+          "content": "Before you can test your defrost heater, you must remove it from your refrigerator. A defrost heater is connected by two wires, and the wires are connected with slip-on connectors. Firmly grasp these connectors and pull them off the terminals. You may need a pair of needle-nosed pliers to help you. Do not pull on the wires themselves."
+        },
+        {
+          "title": "Step 4",
+          "content": "Use your multi-meter to test the heater for continuity. Set your multi-meter to the Rx1 scale and place the tester's leads on one terminal each. This should produce a reading anywhere in between zero and infinity."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you receive a reading of zero or infinity, you will need areplacement defrost heater."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/427308_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2057764_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1993872_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement defrost heater",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Elements-and-Burners.htm"
+        }
+      ]
+    },
+    {
+      "name": "Condenser Fan Motor",
+      "id": "CondenserFan",
+      "content": "Most modern frost-free refrigerators will have a fan cooled condenser coil. This normally located near the compressor at the bottom rear of the refrigerator. The condenser fan circulates air through the condenser coil to remove heat. If the refrigerator is warmer than normal and the compressor is running almost continuously, then you may have a problem with the condenser fan motor. The condenser fan motor runs at the same time as the evaporator motor and the compressor. If the fan motor is not turning at all the condenser will not be able to expel the excess heat and the compressor will run almost continuously\n\nHow to inspect a refrigerator condenser fan motor:\n\nBegin by unplugging your refrigerator from the power source and then remove the rear access panel to locate the condenser fan motor, it is usually found at the bottom rear of the appliance. Once you have located it, Look for any debris or obstructions that could be preventing the fan from moving freely. You should also inspect the condenser fan motor for any signs of wear or damage.. If the fan motor is seized or worn, you will need a replacement condenser fan motor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by unplugging your refrigerator from the power source and then remove the rear access panel to locate the condenser fan motor, it is usually found at the bottom rear of the appliance."
+        },
+        {
+          "title": "Step 2",
+          "content": "Once you have located it, Look for any debris or obstructions that could be preventing the fan from moving freely. You should also inspect the condenser fan motor for any signs of wear or damage.."
+        },
+        {
+          "title": "Step 3",
+          "content": "If the fan motor is seized or worn, you will need areplacement condenser fan motor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/395284_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1766247_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1957416_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement condenser fan motor",
+          "category": "Refrigerator Motors",
+          "url": "https://www.partselect.com/Refrigerator-Motors.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "da9oya03Kvo",
+      "url": "https://www.youtube.com/watch?v=da9oya03Kvo",
+      "title": "How To Fix A Refrigerator and Freezer That's Too Warm"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "ColdControlOr",
+      "name": "Cold Control Or Temperature Control"
+    },
+    {
+      "id": "EvaporatorFan",
+      "name": "Evaporator Fan Motor"
+    },
+    {
+      "id": "ElectronicControl",
+      "name": "Electronic Control Board"
+    },
+    {
+      "id": "TemperatureSensorOr",
+      "name": "Temperature Sensor Or Thermistor"
+    },
+    {
+      "id": "DefrostTimer",
+      "name": "Defrost Timer"
+    },
+    {
+      "id": "DefrostThermostat",
+      "name": "Defrost Thermostat"
+    },
+    {
+      "id": "DefrostHeater",
+      "name": "Defrost Heater"
+    },
+    {
+      "id": "CondenserFan",
+      "name": "Condenser Fan Motor"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": [
+      {
+        "issue": "Cold control or temperature control",
+        "explanation": "Defective or out of calibration cold control could lead to incorrect temperature settings in the refrigerator."
+      },
+      {
+        "issue": "Evaporator fan motor",
+        "explanation": "Defective evaporator fan motor could lead to improper circulation of cold air in the refrigerator."
+      },
+      {
+        "issue": "Electronic control board",
+        "explanation": "Faulty electronic control board can affect temperature regulation in the refrigerator."
+      },
+      {
+        "issue": "Temperature sensor or thermistor",
+        "explanation": "Damaged or defective temperature sensor can result in incorrect signals to the control board."
+      },
+      {
+        "issue": "Defrost timer",
+        "explanation": "Malfunctioning defrost timer can cause issues with the defrost cycle of the refrigerator."
+      },
+      {
+        "issue": "Defrost thermostat",
+        "explanation": "Defective defrost thermostat can prevent the defrost heater from activating."
+      }
+    ],
+    "difficulty_level": "Medium",
+    "tools_needed": "Multi-meter, replacement parts as needed",
+    "safety_precautions": "Unplug the refrigerator before starting the repair. Handle electrical components with caution.",
+    "key_symptoms": [
+      "Fridge and Freezer are too warm",
+      "Compressor and fans running but not maintaining correct temperatures",
+      "Excessive ice build-up on the evaporator fan motor",
+      "Control board shows signs of damage or wear",
+      "Irregular readings from the temperature sensor or thermistor",
+      "Issues with the defrost cycle"
+    ]
+  }
+}

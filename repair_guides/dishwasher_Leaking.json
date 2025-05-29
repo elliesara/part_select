@@ -1,0 +1,318 @@
+{
+  "appliance_type": "Dishwasher",
+  "symptom": "Leaking",
+  "symptom_id": "Leaking",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Leaking/",
+  "overview": "Diagnose the reason for your leaking dishwasher, from a worn pump and door seals, to a failed water inlet valve.",
+  "repair_solutions": [
+    {
+      "name": "Pump",
+      "id": "Pump",
+      "content": "A defective pump and/or pump seal may be the cause of a dishwasher leak. The function of the pump is to circulate water in the dishwasher and in some models, to drain the water as well. The pump typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter.\n\nHow to test a dishwasher pump with a multimeter:\n\nDisconnect the power from your appliance before beginning. On most models, the pump will be found behind the lower access panel. Locate and remove your dishwasher pump in order to test it. To test for continuity, set your multimeter to Rx1 and touch the terminals with the probes. This test should produce a reading of exactly or nearly zero. You should also check the ground connection of the pump. To do this, leave one probe on the terminal and touch the other to the bare metal housing of the pump. This test should not produce any reading. If your readings differ from the results above, you will need a replacement pump .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect the power from your appliance before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "On most models, the pump will be found behind the lower access panel. Locate and remove your dishwasher pump in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "To test for continuity, set your multimeter to Rx1 and touch the terminals with the probes. This test should produce a reading of exactly or nearly zero. You should also check the ground connection of the pump. To do this, leave one probe on the terminal and touch the other to the bare metal housing of the pump. This test should not produce any reading."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your readings differ from the results above, you will need areplacement pump."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1990918_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1765174_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2340929_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement pump",
+          "category": "Dishwasher Pumps",
+          "url": "https://www.partselect.com/Dishwasher-Pumps.htm"
+        }
+      ]
+    },
+    {
+      "name": "Door Gasket",
+      "id": "DoorGasket",
+      "content": "If water appears to be leaking around the front of the dishwasher, the problem may be with the door gasket. The dishwasher door gasket or seal is normally made of soft rubber or vinyl and goes around the door or tub opening of the dishwasher, creating a watertight seal. Some dishwasher models have rubber baffles located at the bottom corners of the tub opening that prevent water leaking in that area. When vinyl or rubber ages, it can become less flexible or even brittle and may damage easily or not seal properly.\n\nHow to inspect a door gasket on a dishwasher:\n\nOpen your dishwasher door to locate the door gasket, and baffles if applicable. Visually inspect the gasket for any signs of wearing, damage, missing pieces, or misalignment. If you find any of the above, you will need a replacement door gasket .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Open your dishwasher door to locate the door gasket, and baffles if applicable."
+        },
+        {
+          "title": "Step 2",
+          "content": "Visually inspect the gasket for any signs of wearing, damage, missing pieces, or misalignment."
+        },
+        {
+          "title": "Step 3",
+          "content": "If you find any of the above, you will need areplacement door gasket."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2097160_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/452429_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/890612_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement door gasket",
+          "category": "Dishwasher Seals and Gaskets",
+          "url": "https://www.partselect.com/Dishwasher-Seals-and-Gaskets.htm"
+        }
+      ]
+    },
+    {
+      "name": "Water Inlet Valve",
+      "id": "WaterInlet",
+      "content": "The water inlet valve feeds the water from your home\u2019s main water line into the dishwasher and could be the source of a leak. The inlet valve can be found behind the lower kick plate. The hot water inlet supply to the valve may be copper tubing, rubber hose or braided hose.\n\nHow to test a dishwasher water inlet valve:\n\nSimilar to most other inspections, begin by disconnecting your appliance from both the power and the water source. In order to access the water inlet valve, you will need to remove the lower access panel of your appliance. The valve will likely be located on the left side. Begin by inspecting the body of the valve. You are looking for any signs of cracking, damage, wear, or any other indication of a leak. If you find any of the above, you will need a replacement water inlet valve .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Similar to most other inspections, begin by disconnecting your appliance from both the power and the water source."
+        },
+        {
+          "title": "Step 2",
+          "content": "In order to access the water inlet valve, you will need to remove the lower access panel of your appliance. The valve will likely be located on the left side."
+        },
+        {
+          "title": "Step 3",
+          "content": "Begin by inspecting the body of the valve. You are looking for any signs of cracking, damage, wear, or any other indication of a leak."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any of the above, you will need areplacement water inlet valve."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/259368_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/343694_2_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2348011_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement water inlet valve",
+          "category": "Dishwasher Valves",
+          "url": "https://www.partselect.com/Dishwasher-Valves.htm"
+        }
+      ]
+    },
+    {
+      "name": "Dispensers & Grommets",
+      "id": "DispensersAnd",
+      "content": "The detergent dispenser and the rinse aid dispenser are normally located on the inner door panel of the dishwasher. Some models use a dispenser assembly that is attached to the panel with screws and a gasket to seal against water leaks. Other models may use a dispenser that is molded into the door panel but uses a dispenser latch assembly that is attached to the back of the inner panel and use a rubber grommet to seal around the dispenser latch where it protrudes through the door panel. If you have a water leak that appears to come from the front of your dishwasher, the dispenser gasket or the dispenser latch grommet may be the cause.\n\nHow to inspect a dishwasher detergent/rinse aid dispenser & grommets:\n\nFor safety, unplug your dishwasher before beginning. Open the dishwasher door to visually inspect the dispenser. First, inspect the lever for cracking or damage, a broken lever would prevent the dispenser from opening or closing properly. Next, inspect the dispenser cover for any wear or damage. Finally, inspect the container itself for cracks or other damage. If you find any issues while performing the inspections above, you will need a replacement dispenser .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "For safety, unplug your dishwasher before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Open the dishwasher door to visually inspect the dispenser."
+        },
+        {
+          "title": "Step 3",
+          "content": "First, inspect the lever for cracking or damage, a broken lever would prevent the dispenser from opening or closing properly. Next, inspect the dispenser cover for any wear or damage. Finally, inspect the container itself for cracks or other damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues while performing the inspections above, you will need areplacement dispenser."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/335175_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099734_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2097055_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement dispenser",
+          "category": "Dishwasher Dispensers",
+          "url": "https://www.partselect.com/Dishwasher-Dispensers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Spray Arm",
+      "id": "SprayArm",
+      "content": "Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub. Most spray arms are made of plastic which can crack or warp enough to change the spray pattern significantly. Metal spray arms can become damaged or separate at the seams which can also alter the spray pattern. These conditions can cause water to be directed at the bottom of the door where there is no gasket and therefore creating a water leak.\n\nHow to inspect dishwasher spray arms:\n\nWhile not crucial, we recommend you unplug your dishwasher before starting this inspection. Begin by inspecting the arms for any signs of cracking, wear, or any other damage. Next, manually spin the spray arms. You should be feeling to see if there is any resistance, if they are wobbling, or if they hit the dish racks. Additionally, inspect to see if any of the holes in the arms are clogged, clear out anything you may find. If you find any of the issues described above, you will need replacement spray arms .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "While not crucial, we recommend you unplug your dishwasher before starting this inspection."
+        },
+        {
+          "title": "Step 2",
+          "content": "Begin by inspecting the arms for any signs of cracking, wear, or any other damage."
+        },
+        {
+          "title": "Step 3",
+          "content": "Next, manually spin the spray arms. You should be feeling to see if there is any resistance, if they are wobbling, or if they hit the dish racks. Additionally, inspect to see if any of the holes in the arms are clogged, clear out anything you may find."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any of the issues described above, you will needreplacement spray arms."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099282_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1524954_4_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099972_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement spray arms",
+          "category": "Dishwasher Spray Arms",
+          "url": "https://www.partselect.com/Dishwasher-Spray-Arms.htm"
+        }
+      ]
+    },
+    {
+      "name": "Float & Float Switch",
+      "id": "FloatAndFloat",
+      "content": "The float and float switch are used as a safety device to prevent the dishwasher from overfilling with water. The float is located inside of the tub at the bottom of the dishwasher and the float switch is located beneath the tub directly below the float. The float lifts as the water level in the dishwasher rises, and when the proper water level is reached, the stem of the float activates the float switch to turn off the water inlet valve. A malfunctioning float or float switch could cause the water level to be too high and create a leak. The proper water level is normally just to the heating element on the bottom of the tub. If the water level in your dishwasher is too high, then you should suspect that the float or float switch may be the cause of the problem.\n\nHow to test a dishwasher float switch with a multimeter:\n\nDisconnect your dishwasher from the power source as well as the water supply. The float switch will be found inside your dishwasher\u2019s tub; you will need to remove the lower access panel to access it. The switch is usually located directly below the float assembly, once you have located it, remove it in order to test it. Using a multimeter set to Rx1, touch the switch\u2019s terminals with the probes to test for continuity. You should receive a reading of zero or infinity. With the probes still touching the terminals, press in on the switch\u2019s button, this should change it to the opposite extreme (from zero to infinity, or infinity to zero). If your test results differ from those above, you will need a replacement float switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your dishwasher from the power source as well as the water supply."
+        },
+        {
+          "title": "Step 2",
+          "content": "The float switch will be found inside your dishwasher\u2019s tub; you will need to remove the lower access panel to access it. The switch is usually located directly below the float assembly, once you have located it, remove it in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multimeter set to Rx1, touch the switch\u2019s terminals with the probes to test for continuity. You should receive a reading of zero or infinity. With the probes still touching the terminals, press in on the switch\u2019s button, this should change it to the opposite extreme (from zero to infinity, or infinity to zero)."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your test results differ from those above, you will need areplacement float switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/396493_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402320_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/393089_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement float switch",
+          "category": "Dishwasher Parts",
+          "url": "https://www.partselect.com/Dishwasher-Parts.htm"
+        }
+      ]
+    },
+    {
+      "name": "Hose Clamps & Hoses",
+      "id": "HoseClampsAnd",
+      "content": "The hose clamps secure the drain hose and the circulating hose to the dishwasher pump. These hoses and clamps can be found by removing the kickplate at the bottom of the dishwasher. If the clamps have come loose or the hoses have cracks in them, it could be the cause of a leak. Be sure to check the clamps on both the drain hose and the circulating hose.\n\nHow to inspect dishwasher hoses:\n\nDisconnect the water supply as well as the power source from your appliance before beginning. The hoses are usually found behind the lower access panel (or kickplate). You will need to remove this in order to locate them. You will be checking two hoses, both of which are connected to a pump below the lower spray arm: The drain hose and the recirculation hose. Remove both hoses in order to inspect them. Visually inspect the hoses for any signs or wear, cracking, or damage. Attempt to run water through each to identify if there is a blockage inside the hose. If you find any issues while performing the inspection above, you will need a replacement hose .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect the water supply as well as the power source from your appliance before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "The hoses are usually found behind the lower access panel (or kickplate). You will need to remove this in order to locate them."
+        },
+        {
+          "title": "Step 3",
+          "content": "You will be checking two hoses, both of which are connected to a pump below the lower spray arm: The drain hose and the recirculation hose. Remove both hoses in order to inspect them."
+        },
+        {
+          "title": "Step 4",
+          "content": "Visually inspect the hoses for any signs or wear, cracking, or damage. Attempt to run water through each to identify if there is a blockage inside the hose."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you find any issues while performing the inspection above, you will need areplacement hose."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/417877_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/334596_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/270508_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement hose",
+          "category": "Dishwasher Hoses and Tubes",
+          "url": "https://www.partselect.com/Dishwasher-Hoses-and-Tubes.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "title": "How To Repair A Leaking Dishwasher",
+      "url": "https://www.youtube.com/watch?v=hBAfmgORE6Q"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "Pump",
+      "name": "Pump"
+    },
+    {
+      "id": "DoorGasket",
+      "name": "Door Gasket"
+    },
+    {
+      "id": "WaterInlet",
+      "name": "Water Inlet Valve"
+    },
+    {
+      "id": "DispensersAnd",
+      "name": "Dispensers & Grommets"
+    },
+    {
+      "id": "SprayArm",
+      "name": "Spray Arm"
+    },
+    {
+      "id": "FloatAndFloat",
+      "name": "Float & Float Switch"
+    },
+    {
+      "id": "HoseClampsAnd",
+      "name": "Hose Clamps & Hoses"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": {
+      "Pump": "Defective pump or pump seal may cause a dishwasher leak. The pump circulates water and drains it in some models.",
+      "Door Gasket": "Leaking around the front of the dishwasher may be due to a worn or damaged door gasket that fails to create a watertight seal.",
+      "Water Inlet Valve": "A leaking dishwasher may be caused by a faulty water inlet valve that allows water from the main supply line to leak into the dishwasher.",
+      "Dispensers & Grommets": "Water leaks near the front of the dishwasher could be due to issues with the detergent or rinse aid dispensers, such as damaged gaskets or grommets.",
+      "Spray Arm": "Cracked or damaged spray arms can alter the water spray pattern and cause leaks, especially directing water towards the bottom of the door.",
+      "Float & Float Switch": "A malfunctioning float or float switch in the dishwasher's safety system can lead to water overfilling and leaking from the appliance.",
+      "Hose Clamps & Hoses": "Loose hose clamps or cracked hoses connected to the dishwasher pump may cause leaks and should be inspected."
+    },
+    "tools_needed": {
+      "Pump": "Multimeter, Replacement pump",
+      "Door Gasket": "Visual inspection, Replacement door gasket",
+      "Water Inlet Valve": "Multimeter, Replacement water inlet valve",
+      "Dispensers & Grommets": "Visual inspection, Replacement dispenser",
+      "Spray Arm": "Visual inspection, Replacement spray arms",
+      "Float & Float Switch": "Multimeter, Replacement float switch",
+      "Hose Clamps & Hoses": "Visual inspection, Replacement hoses"
+    },
+    "safety_precautions": "Before beginning any inspection or repair, always disconnect the power supply and water source to the dishwasher to prevent electrical shock or water leaks while working on the appliance.",
+    "key_symptoms": {
+      "Leaking": [
+        "Water leaking around the front of the dishwasher",
+        "Water leaking from the bottom of the door",
+        "Water overfilling in the dishwasher"
+      ]
+    }
+  }
+}

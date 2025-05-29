@@ -1,0 +1,229 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Fridge too cold",
+  "symptom_id": "Refrigerator-Too-Cold",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Cold/",
+  "overview": "Find out how to repair a fridge that's too cold by troubleshooting the common problem parts like a temperature control or thermistor.",
+  "repair_solutions": [
+    {
+      "name": "Air Inlet Damper Or Baffle",
+      "id": "AirInletDamper",
+      "content": "The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then too much cold air may enter the fresh food compartment resulting in lower than normal temperatures. The baffle or damper will be located where the cold air enters the fresh food compartment. The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage.\n\nHow to inspect a refrigerator\u2019s air inlet damper or baffle:\n\nUnplug your refrigerator and locate the damper or baffle. It is usually found where the cold air enters the fresh food compartment. Use caution when inspecting the baffle or damper to not damage the plastic & Styrofoam housing that the baffle or damper is encased in. If your model of has a temperature sensing bulb attached to this control make sure that the sensing bulb is in the correct position and not damaged. The control knob should move freely, try to move it to verify that the linkage is intact and that it moves freely. If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator and locate the damper or baffle. It is usually found where the cold air enters the fresh food compartment."
+        },
+        {
+          "title": "Step 2",
+          "content": "Use caution when inspecting the baffle or damper to not damage the plastic & Styrofoam housing that the baffle or damper is encased in."
+        },
+        {
+          "title": "Step 3",
+          "content": "If your model of has a temperature sensing bulb attached to this control make sure that the sensing bulb is in the correct position and not damaged."
+        },
+        {
+          "title": "Step 4",
+          "content": "The control knob should move freely, try to move it to verify that the linkage is intact and that it moves freely."
+        },
+        {
+          "title": "Step 5",
+          "content": "If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need areplacement air inlet damper or baffle."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/966602_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/966602_4_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/966602_3_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement air inlet damper or baffle",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Ducts-and-Vents.htm"
+        }
+      ]
+    },
+    {
+      "name": "Temperature Sensor Or Thermistor",
+      "id": "TemperatureSensorOr",
+      "content": "Some electronic controls models will use a thermistor to sense the temperature. The electronic control monitors this temperature and will automatically adjust the damper. The temperature sensor is normally a plastic encased capsule with two wires attached and may be located near the air inlet. The thermistor will have a specific resistance based on temperature and is therefore difficult to diagnose without the manufacturer\u2019s specifications. Some models may indicate a fault code when the sensor is faulty.\n\nHow to test a refrigerator temperature sensor or thermistor with a multi-meter:\n\nVerify that you have disconnected your appliance from the power source as you will be inspecting electrical components. The thermistor(s) will be connected to the main control board, you will need to remove the back panel of your fridge to access the control board. Remove the thermistor(s) from the appliance in order to test them. Thermistor(s) will produce different multi-meter readings based on their temperature when you test them. The ranges below only apply to thermistors at 32 degrees F. Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes to bring the temperature to 32 degrees F. Set your multi-meter to the Rx1 setting and touch the probes to the terminals, you should receive a reading of 16,600 ohms (+/- 5 percent). If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Verify that you have disconnected your appliance from the power source as you will be inspecting electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "The thermistor(s) will be connected to the main control board, you will need to remove the back panel of your fridge to access the control board. Remove the thermistor(s) from the appliance in order to test them."
+        },
+        {
+          "title": "Step 3",
+          "content": "Thermistor(s) will produce different multi-meter readings based on their temperature when you test them. The ranges below only apply to thermistors at 32 degrees F. Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes to bring the temperature to 32 degrees F."
+        },
+        {
+          "title": "Step 4",
+          "content": "Set your multi-meter to the Rx1 setting and touch the probes to the terminals, you should receive a reading of 16,600 ohms (+/- 5 percent)."
+        },
+        {
+          "title": "Step 5",
+          "content": "If you receive a reading outside this range, you will need areplacement temperature sensor or thermistor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/304103_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/968736_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/304103_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement temperature sensor or thermistor",
+          "category": "Refrigerator Sensors",
+          "url": "https://www.partselect.com/Refrigerator-Sensors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Main Control Board",
+      "id": "MainControl",
+      "content": "Some newer models may have an electronic control board that controls all of the refrigerators functions. Sensors are connected to the board that monitor fresh food and freezer compartment temperatures and the control board will use that information to operate the compressor and fans as well as the defrost system and in some cases the air baffle/damper to balance temperatures. A defective control board could cause a symptom of the fresh food compartment being too cold, but you should first eliminate the sensors and the damper before changing the control. Some manufacturers may provide detailed information on the procedure for testing the board and the sensors.\n\nHow to inspect a refrigerator\u2019s main control board:\n\nDisconnect your refrigerator from the power source, you will be inspecting electrical components. The main control board is usually found inside the control box, which is inside the fridge, attached to the top or side of the fridge. Locate and remove the main control board from your appliance. Looking for any signs of damaged foil, wear, burnt connections, arcing, or any other damage, inspect your main control board. If you find any of the above, you need a replacement main control board .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your refrigerator from the power source, you will be inspecting electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "The main control board is usually found inside the control box, which is inside the fridge, attached to the top or side of the fridge. Locate and remove the main control board from your appliance."
+        },
+        {
+          "title": "Step 3",
+          "content": "Looking for any signs of damaged foil, wear, burnt connections, arcing, or any other damage, inspect your main control board."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any of the above, you need areplacement main control board."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2364946_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2364946_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180152_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement main control board",
+          "category": "Refrigerator Circuit Boards and Touch Pads",
+          "url": "https://www.partselect.com/Refrigerator-Circuit-Boards-and-Touch-Pads.htm"
+        }
+      ]
+    },
+    {
+      "name": "Cold Control Or Temperature Control",
+      "id": "ColdControlOr",
+      "content": "The cold control thermostat monitors the temperature inside the refrigerator and will operate the compressor and fans when the temperature rises. The control is often labeled as the refrigerator control but in some models may be called the freezer control. The control will have wires attached to it that operate the compressor circuit and will normally have an \"off\" setting on the knob. If the control is defective it may create a symptom of the fresh food section being too cold but would also lower the temperature in the freezer compartment as well, and the compressor would run longer than normal. Try adjusting both controls starting at the middle settings and monitor the temperatures for 24 hours before making any further adjustments.\n\nHow to test your fridge\u2019s cold control & temperature control with a multi-meter:\n\nYou will be handling electrical components, ensure you have disconnected the power source from your appliance before beginning. Begin by locating your control, it will be inside the fridge, usually in the fresh food section control panel, likely located directly behind the temperature adjustment knob. After locating it, remove the control from the fridge, set the control to the lowest (warmest) setting, place your multi-meter on the Rx1 setting, and touch the probes to the terminals to test for continuity. You should receive a reading of infinity. While still touching the terminals with the probes, change the control to a colder (higher) setting. This should change the reading from infinity to zero. If your control fails either of the tests above, you will need a replacement cold control & temperature control .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "You will be handling electrical components, ensure you have disconnected the power source from your appliance before beginning. Begin by locating your control, it will be inside the fridge, usually in the fresh food section control panel, likely located directly behind the temperature adjustment knob."
+        },
+        {
+          "title": "Step 2",
+          "content": "After locating it, remove the control from the fridge, set the control to the lowest (warmest) setting, place your multi-meter on the Rx1 setting, and touch the probes to the terminals to test for continuity. You should receive a reading of infinity."
+        },
+        {
+          "title": "Step 3",
+          "content": "While still touching the terminals with the probes, change the control to a colder (higher) setting. This should change the reading from infinity to zero."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your control fails either of the tests above, you will need areplacement cold control & temperature control."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/470790_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/310865_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/310865_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement cold control & temperature control",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Thermostats.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "t67G2YUuyWs",
+      "url": "https://www.youtube.com/watch?v=t67G2YUuyWs",
+      "title": "How To Fix A Refrigerator That's Too Cold"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "AirInletDamper",
+      "name": "Air Inlet Damper Or Baffle"
+    },
+    {
+      "id": "TemperatureSensorOr",
+      "name": "Temperature Sensor Or Thermistor"
+    },
+    {
+      "id": "MainControl",
+      "name": "Main Control Board"
+    },
+    {
+      "id": "ColdControlOr",
+      "name": "Cold Control Or Temperature Control"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": {
+      "Air Inlet Damper Or Baffle": "If the baffle is damaged or the linkage to the control knob is damaged, too much cold air may enter the fresh food compartment, resulting in lower than normal temperatures.",
+      "Temperature Sensor Or Thermistor": "A faulty thermistor or temperature sensor may incorrectly monitor the temperature, leading to the fridge being too cold.",
+      "Main Control Board": "A defective control board could cause the fresh food compartment to be too cold as it controls the refrigerator's functions based on sensor inputs.",
+      "Cold Control Or Temperature Control": "A defective cold control thermostat can result in the fresh food section being too cold by incorrectly operating the compressor and fans."
+    },
+    "difficulty_level": "medium",
+    "tools_needed": "Multi-meter",
+    "safety_precautions": "Ensure the appliance is unplugged before inspecting electrical components to avoid any risk of electric shock.",
+    "key_symptoms": "Fridge too cold",
+    "solutions": [
+      {
+        "solution": "Air Inlet Damper Or Baffle",
+        "steps": [
+          "Unplug your refrigerator and locate the damper or baffle.",
+          "Use caution when inspecting the baffle or damper to avoid damage to the housing.",
+          "Check the temperature sensing bulb and control knob.",
+          "Ensure the damper/baffle moves freely; replace if stuck or damaged."
+        ]
+      },
+      {
+        "solution": "Temperature Sensor Or Thermistor",
+        "steps": [
+          "Disconnect the power source and locate the thermistor(s) attached to the main control board.",
+          "Remove the thermistor(s) for testing.",
+          "Test the thermistor at 32 degrees F with a multi-meter; replace if reading outside the range."
+        ]
+      },
+      {
+        "solution": "Main Control Board",
+        "steps": [
+          "Disconnect the refrigerator from the power source and remove the main control board.",
+          "Inspect the control board for any signs of damage.",
+          "Replace the main control board if any damage is found."
+        ]
+      },
+      {
+        "solution": "Cold Control Or Temperature Control",
+        "steps": [
+          "Disconnect the power source and locate the control behind the temperature adjustment knob.",
+          "Test for continuity with a multi-meter at different control settings.",
+          "Replace the control if it fails the continuity test."
+        ]
+      }
+    ]
+  }
+}

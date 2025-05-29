@@ -1,0 +1,277 @@
+{
+  "appliance_type": "Dishwasher",
+  "symptom": "Will not start",
+  "symptom_id": "Will-Not-Start",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/",
+  "overview": "Learn how to fix a dishwasher that will not start, by checking a few key components, such as door latch switches, timers, electronic controls, motor relays and thermal fuses.",
+  "repair_solutions": [
+    {
+      "name": "Door Latch Or Door Latch Switch",
+      "id": "DoorLatchOr",
+      "content": "If your dishwasher won\u2019t start, the problem could be the door latch or door latch switches. The door latch assembly is used to hold the door closed during the cycle to prevent water from leaking and it also incorporates the door latch switches that supply power to the dishwasher controls. If the door cannot close properly to activate the door latch switches or if the switches are defective, then the dishwasher controls will not receive power and the dishwasher will not start. Inspect the latch assembly including the switches.\n\nHow to test a dishwasher door latch assembly with a multimeter:\n\nDisconnect your appliance from the power source before beginning. Begin by removing the inner door panel to gain access to the door latch assembly. It is usually found at the top of the door. Once you have located it, verify that the door catch activates the door latch switches by inserting the catch into the assembly. If the switches are being activated mechanically, remove the switches to check them for continuity. Using a multimeter on Rx1, touch the probes to the switch\u2019s terminals. This should produce a reading of zero or nearly zero. If you receive a different reading, you will need a replacement door latch assembly .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power source before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Begin by removing the inner door panel to gain access to the door latch assembly. It is usually found at the top of the door. Once you have located it, verify that the door catch activates the door latch switches by inserting the catch into the assembly."
+        },
+        {
+          "title": "Step 3",
+          "content": "If the switches are being activated mechanically, remove the switches to check them for continuity. Using a multimeter on Rx1, touch the probes to the switch\u2019s terminals. This should produce a reading of zero or nearly zero."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you receive a different reading, you will need areplacement door latch assembly."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/419829_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180046_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/417389_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement door latch assembly",
+          "category": "Dishwasher Latches",
+          "url": "https://www.partselect.com/Dishwasher-Latches.htm"
+        }
+      ]
+    },
+    {
+      "name": "Timer Or Electronic Control",
+      "id": "TimerOrElectronic",
+      "content": "If you have determined that the door latch assembly is operating properly and your dishwasher still won\u2019t start, the next step would be to look at the timer or electronic control. The first step of the dishwasher cycle is normally a drain function to remove any standing water in the tub. If you do not hear the drain pump motor running, then you should look at the timer or electronic control as a possible cause. On manual timer models, the timer is used to supply power to the pump motor, water inlet valve, heater circuit and drain pump motor at the proper sequence in the cycle. The timer uses a series of electrical contacts that are driven by a small motor all of which are encased in the timer housing.\n\nHow to test a dishwasher timer with a multimeter:\n\nDisconnect your appliance from the power source. Locate and remove the timer. It will most likely be found in the control panel, but it is also often found behind the lower kick plate. Some timers may have multiple sets of contacts/wires, if this is true for your model, you will need to refer to your wiring diagram to determine which contacts to test. Set your multimeter to Rx1000 and touch the contacts with the probes. Most functioning timers will fall in the range of 2000-3500 ohms of resistance, but this varies between models. Refer to your owner's manual to determine what reading your test should produce. If your test results differ from the manufacturer's recommendations, you will need a replacement timer .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your appliance from the power source."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate and remove the timer. It will most likely be found in the control panel, but it is also often found behind the lower kick plate."
+        },
+        {
+          "title": "Step 3",
+          "content": "Some timers may have multiple sets of contacts/wires, if this is true for your model, you will need to refer to your wiring diagram to determine which contacts to test."
+        },
+        {
+          "title": "Step 4",
+          "content": "Set your multimeter to Rx1000 and touch the contacts with the probes. Most functioning timers will fall in the range of 2000-3500 ohms of resistance, but this varies between models. Refer to your owner's manual to determine what reading your test should produce."
+        },
+        {
+          "title": "Step 5",
+          "content": "If your test results differ from the manufacturer's recommendations, you will need areplacement timer."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/959249_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099805_4_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402067_4_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement timer",
+          "category": "Dishwasher Timers",
+          "url": "https://www.partselect.com/Dishwasher-Timers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Selector Switch",
+      "id": "SelectorSwitch",
+      "content": "The selector switch on a dishwasher is used to select different options for the individual cycles, such as heated dry and heated wash cycles. Depending on the model involved, the switch may be used in the motor or fill circuit and could cause a dishwasher to not start if it were defective or if the selector buttons were not fully depressed. Check to ensure that the switch is properly depressed before attempting any disassembly. The contacts of the selector switch can be checked for continuity with a multimeter using the schematic diagram as a guide.\n\nHow to test a dishwasher selector switch with a multimeter:\n\nBegin by disconnecting your appliance from the power source. Remove the inner door panel of your dishwasher in order to locate the selector switch. It most likely will be found on the control panel. Once you have located it, ensure that the switch is properly depressed. If it is, remove it from the appliance in order to test it. Using a multimeter set to Rx1, touch the probes to the terminals of the switch, you will need to test each button individually. This should produce a reading of infinity. Next, with the probes still on the terminals, press in on the button of the terminals you are testing. This should change your reading to zero. Repeat this test for all other buttons. If any of your readings do not match the results above, you will need a replacement selector switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by disconnecting your appliance from the power source."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the inner door panel of your dishwasher in order to locate the selector switch. It most likely will be found on the control panel. Once you have located it, ensure that the switch is properly depressed. If it is, remove it from the appliance in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multimeter set to Rx1, touch the probes to the terminals of the switch, you will need to test each button individually. This should produce a reading of infinity. Next, with the probes still on the terminals, press in on the button of the terminals you are testing. This should change your reading to zero. Repeat this test for all other buttons."
+        },
+        {
+          "title": "Step 4",
+          "content": "If any of your readings do not match the results above, you will need areplacement selector switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/263138_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/263138_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/263138_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement selector switch",
+          "category": "Dishwasher Switches",
+          "url": "https://www.partselect.com/Dishwasher-Switches.htm"
+        }
+      ]
+    },
+    {
+      "name": "Motor Start Relay",
+      "id": "MotorStart",
+      "content": "Some models of dishwashers use a start relay on the main pump motor. The start relay is used to supply power to the motor start windings until the motor is running and has a moving plunger inside that operates a set of contacts. If your dishwasher won\u2019t start and you have verified that you are getting power from the control circuit to the motor, then the motor start relay may be defective.\n\nHow to test a dishwasher motor start relay:\n\nEnsure that you have unplugged your dishwasher before beginning. The motor start relay is normally located next to the pump. Remove the lower access panel of your dishwasher in order to locate the motor start relay. Once you have found it, remove it in order to test it. After referring to your wiring diagram, set your multimeter to Rx1 and begin by testing the coil portion of the relay for continuity. This test should produce a reading of zero or nearly zero. Next, you will need to manually activate the relay by turning it upside down and allowing the plunger to drop. Once it is activated, touch the probes to the terminals of the relay. This test should also produce a reading of zero or nearly zero. If your test results differ from those above, you will need a replacement motor start relay .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Ensure that you have unplugged your dishwasher before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "The motor start relay is normally located next to the pump. Remove the lower access panel of your dishwasher in order to locate the motor start relay. Once you have found it, remove it in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "After referring to your wiring diagram, set your multimeter to Rx1 and begin by testing the coil portion of the relay for continuity. This test should produce a reading of zero or nearly zero. Next, you will need to manually activate the relay by turning it upside down and allowing the plunger to drop. Once it is activated, touch the probes to the terminals of the relay. This test should also produce a reading of zero or nearly zero."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your test results differ from those above, you will need areplacement motor start relay."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180088_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180088_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180088_4_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement motor start relay",
+          "category": "Dishwasher Parts",
+          "url": "https://www.partselect.com/Dishwasher-Parts.htm"
+        }
+      ]
+    },
+    {
+      "name": "Thermal Fuse",
+      "id": "ThermalFuse",
+      "content": "Some models of electronic controlled dishwashers use a thermal fuse to protest the control board. The thermal fuse is normally located on the top side of the circuit board assembly with two wires attached to it. When the thermal fuse fails, the control board will not receive power and the dishwasher will not start.\n\nHow to test a dishwasher thermal fuse with a multimeter:\n\nUnplug your appliance before beginning this test, you will be handling electrical components. Remove the inner door of your dishwasher in order to access the control panel. The thermal fuse will be attached to the control panel by 2 wires, carefully disconnect these wires and remove the thermal fuse in order to test it. With a multimeter set to Rx1, touch the fuse\u2019s contacts with the probes. You are testing for continuity and should receive a reading of zero or nearly zero. If you do not receive this reading, you will need a replacement thermal fuse .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your appliance before beginning this test, you will be handling electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the inner door of your dishwasher in order to access the control panel. The thermal fuse will be attached to the control panel by 2 wires, carefully disconnect these wires and remove the thermal fuse in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "With a multimeter set to Rx1, touch the fuse\u2019s contacts with the probes. You are testing for continuity and should receive a reading of zero or nearly zero."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you do not receive this reading, you will need areplacement thermal fuse."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/382828_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/342838_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/342838_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement thermal fuse",
+          "category": "Dishwasher Fuses",
+          "url": "https://www.partselect.com/Dishwasher-Fuses.htm"
+        }
+      ]
+    },
+    {
+      "name": "Drive Motor",
+      "id": "DriveMotor",
+      "content": "A dishwasher\u2019s drive motor is the part that circulates the water to wash the items inside. Electrical power to operate the drive motor is supplied through the timer, or the electronic control, in conjunction with a start relay. If the dishwasher won\u2019t start after the start relay sends power to the motor, this could indicate that the drive motor is defective. You may also hear a loud, humming noise coming from the motor \u2013 this could indicate a seized motor, which would need to be replaced.\n\nHow to test a dishwasher drive motor with a multimeter:\n\nBefore starting, ensure that you have disconnected your dishwasher from the power source. Remove the lower access panel of your appliance in order to locate the drive motor. Once you have located it, carefully disconnect the wires attached to it and remove it in order to test it for continuity. With the motor removed from the appliance, set your multimeter to Rx1 and touch the probes to the motor\u2019s terminals. A functional drive motor will produce a reading of zero or nearly zero. Next, test the ground connection by moving one of the probes to the bare metal housing of the motor. This test should not produce any reading. If either of your tests produces different readings, you will need a replacement drive motor .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Before starting, ensure that you have disconnected your dishwasher from the power source."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the lower access panel of your appliance in order to locate the drive motor. Once you have located it, carefully disconnect the wires attached to it and remove it in order to test it for continuity."
+        },
+        {
+          "title": "Step 3",
+          "content": "With the motor removed from the appliance, set your multimeter to Rx1 and touch the probes to the motor\u2019s terminals. A functional drive motor will produce a reading of zero or nearly zero. Next, test the ground connection by moving one of the probes to the bare metal housing of the motor. This test should not produce any reading."
+        },
+        {
+          "title": "Step 4",
+          "content": "If either of your tests produces different readings, you will need areplacement drive motor."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/886715_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2363114_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2363114_3_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement drive motor",
+          "category": "Dishwasher Motors",
+          "url": "https://www.partselect.com/Dishwasher-Motors.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "title": "How to Fix a Dishwasher That Won\u2019t Start",
+      "url": "https://www.youtube.com/watch?v=XgZq_VdXKiQ"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "DoorLatchOr",
+      "name": "Door Latch Or Door Latch Switch"
+    },
+    {
+      "id": "TimerOrElectronic",
+      "name": "Timer Or Electronic Control"
+    },
+    {
+      "id": "SelectorSwitch",
+      "name": "Selector Switch"
+    },
+    {
+      "id": "MotorStart",
+      "name": "Motor Start Relay"
+    },
+    {
+      "id": "ThermalFuse",
+      "name": "Thermal Fuse"
+    },
+    {
+      "id": "DriveMotor",
+      "name": "Drive Motor"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": {
+      "Door Latch Or Door Latch Switch": "If the dishwasher won't start, it could be due to a malfunctioning door latch or door latch switches. These components play a crucial role in supplying power to the dishwasher controls.",
+      "Timer Or Electronic Control": "If the door latch assembly is operating properly and the dishwasher still won't start, the timer or electronic control could be the issue. The timer regulates power distribution to various parts of the dishwasher during the cycle.",
+      "Selector Switch": "The selector switch, responsible for choosing different cycle options, could prevent the dishwasher from starting if defective. Checking its continuity with a multimeter is necessary for troubleshooting.",
+      "Motor Start Relay": "A faulty motor start relay, which supplies power to the motor start windings, may prevent the dishwasher from starting even if power is reaching the motor. Testing the relay with a multimeter is crucial to identify any issues.",
+      "Thermal Fuse": "In electronic-controlled dishwashers, a thermal fuse protects the control board. If this fuse fails, the control board will not receive power, leading to the dishwasher not starting.",
+      "Drive Motor": "The drive motor is responsible for circulating water inside the dishwasher. If the motor is defective, it can prevent the dishwasher from starting. Testing its continuity using a multimeter is essential to diagnose the problem."
+    },
+    "tools_needed": "Multimeter, replacement parts (door latch assembly, timer, selector switch, motor start relay, thermal fuse, drive motor)",
+    "safety_precautions": [
+      "Disconnect the appliance from the power source before starting any repair work.",
+      "Handle electrical components with caution and ensure the appliance is unplugged.",
+      "Refer to the appliance's wiring diagram to correctly identify components and connections.",
+      "Follow manufacturer instructions for testing components to avoid electric shock or damage."
+    ],
+    "key_symptoms": [
+      "Dishwasher won't start when the cycle is initiated.",
+      "Presence of loud humming noise from the motor might indicate a seized motor.",
+      "Failure to hear the drain pump motor running during the first step of the cycle."
+    ]
+  }
+}

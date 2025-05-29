@@ -1,0 +1,164 @@
+{
+  "appliance_type": "Dishwasher",
+  "symptom": "Not drying dishes properly",
+  "symptom_id": "Not-Drying-Properly",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/",
+  "overview": "Find out how to troubleshoot and repair a dishwasher that will not properly dry dishes, by checking heating elements, high limit thermostats and rinse aid dispensers.",
+  "repair_solutions": [
+    {
+      "name": "Heating Element",
+      "id": "HeatingElement",
+      "content": "A malfunctioning heating element may be the cause for dishes not drying. To test the heating element, first, make sure that power to your dishwasher is turned off, and then check for continuity with a multi-meter.\n\nHow to test the heating element in a dishwasher with a multimeter:\n\nUnplug your dishwasher before attempting this test. Your heating element will be found inside the dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover. In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element\u2019s terminals by carefully grasping the metal connector, do not pull on the wire itself. To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner\u2019s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective. If your test produces a reading different from the manufacturer\u2019s recommendation, you will need a replacement heating element .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your dishwasher before attempting this test."
+        },
+        {
+          "title": "Step 2",
+          "content": "Your heating element will be found inside the dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover."
+        },
+        {
+          "title": "Step 3",
+          "content": "In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element\u2019s terminals by carefully grasping the metal connector, do not pull on the wire itself."
+        },
+        {
+          "title": "Step 4",
+          "content": "To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner\u2019s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective."
+        },
+        {
+          "title": "Step 5",
+          "content": "If your test produces a reading different from the manufacturer\u2019s recommendation, you will need areplacement heating element."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1960583_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2367647_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2097196_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement heating element",
+          "category": "Dishwasher Elements and Burners",
+          "url": "https://www.partselect.com/Dishwasher-Elements-and-Burners.htm"
+        }
+      ]
+    },
+    {
+      "name": "High Limit Thermostat",
+      "id": "HighLimit",
+      "content": "The high limit thermostat acts as a safety device that keeps the dishwasher from getting too hot. If the thermostat is malfunctioning, it could shut off the heat before your dishes are finished drying.\n\nHow to test a dishwasher high limit thermostat with a multimeter:\n\nEnsure that you unplug your appliance before beginning this inspection. Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the dishwasher tub, behind the lower access panel. Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero. If your thermostat produces different results, you will need a replacement high limit thermostat .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Ensure that you unplug your appliance before beginning this inspection."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the dishwasher tub, behind the lower access panel."
+        },
+        {
+          "title": "Step 3",
+          "content": "Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your thermostat produces different results, you will need areplacement high limit thermostat."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/420575_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/382429_2_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/382429_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement high limit thermostat",
+          "category": "Dishwasher Thermostats",
+          "url": "https://www.partselect.com/Dishwasher-Thermostats.htm"
+        }
+      ]
+    },
+    {
+      "name": "Rinse Aid Dispenser",
+      "id": "RinseAid",
+      "content": "The rinse aid or the rinse aid dispensing cap could be the reason why your dishwasher is not fully drying your dishes. Without the rinse aid, the dishes will not shed water easily and will not dry properly.\n\nHow to inspect a dishwasher rinse aid dispenser:\n\nThis inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection. Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser. After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage. If you find any issues with your rinse aid dispenser while performing this inspection, you will need a replacement rinse aid dispenser .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "This inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection."
+        },
+        {
+          "title": "Step 2",
+          "content": "Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser."
+        },
+        {
+          "title": "Step 3",
+          "content": "After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues with your rinse aid dispenser while performing this inspection, you will need areplacement rinse aid dispenser."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402316_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/421128_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/958932_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement rinse aid dispenser",
+          "category": "Dishwasher Dispensers",
+          "url": "https://www.partselect.com/Dishwasher-Dispensers.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "title": "How to Fix A Dishwasher That Won't Dry Properly",
+      "url": "https://www.youtube.com/watch?v=EhG4YLuCiXM"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "HeatingElement",
+      "name": "Heating Element"
+    },
+    {
+      "id": "HighLimit",
+      "name": "High Limit Thermostat"
+    },
+    {
+      "id": "RinseAid",
+      "name": "Rinse Aid Dispenser"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": [
+      {
+        "cause": "Malfunctioning heating element",
+        "solution": "Test the heating element with a multimeter"
+      },
+      {
+        "cause": "Malfunctioning high limit thermostat",
+        "solution": "Test the high limit thermostat with a multimeter"
+      },
+      {
+        "cause": "Rinse aid dispenser issue",
+        "solution": "Inspect the rinse aid dispenser for any damage"
+      }
+    ],
+    "tools_needed": [
+      "Multimeter"
+    ],
+    "safety_precautions": [
+      "Unplug the dishwasher before conducting any tests or inspections to avoid electrical shock",
+      "Handle wires and components carefully to prevent damage"
+    ],
+    "key_symptoms": [
+      "Dishes not drying properly"
+    ]
+  }
+}

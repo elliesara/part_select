@@ -1,0 +1,181 @@
+{
+  "appliance_type": "Dishwasher",
+  "symptom": "Noisy",
+  "symptom_id": "Noisy",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Noisy/",
+  "overview": "Learn how to troubleshoot and repair a noisy dishwasher by the type of noise it makes, from the rattle of a pump housing or motor bushings, to a worn washer arm bearing.",
+  "repair_solutions": [
+    {
+      "name": "Pump",
+      "id": "Pump",
+      "content": "A defective pump could be the reason your dishwasher is making loud noises. The function of the pump is to pressurize the spray arms, and in most models, it is also used to drain the water. The pump sits at the bottom of the dishwasher and typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter. The impellers are driven by an electric motor that is attached to the bottom or side of the pump.\n\nHow to test a dishwasher pump with a multimeter:\n\nUnplug your dishwasher before beginning this test; you will be handling electrical components. Remove the pump in order to test it. The pump is usually found behind the lower access panel. Using a multimeter on Rx1, place the probes onto the terminals to test for continuity. You should receive a reading of zero or nearly zero. To test the ground connection, with one probe still on a terminal, touch the other probe to the bare metal housing of the pump. You should not receive any reading from this test. If your test results do not match those above, you will need a replacement pump .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your dishwasher before beginning this test; you will be handling electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the pump in order to test it. The pump is usually found behind the lower access panel."
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multimeter on Rx1, place the probes onto the terminals to test for continuity. You should receive a reading of zero or nearly zero. To test the ground connection, with one probe still on a terminal, touch the other probe to the bare metal housing of the pump. You should not receive any reading from this test."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your test results do not match those above, you will need areplacement pump."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2353893_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/259582_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260804_1_N.jpg"
+      ],
+      "parts": [
+        {
+          "name": "replacement pump",
+          "category": "Dishwasher Pumps",
+          "url": "https://www.partselect.com/Dishwasher-Pumps.htm"
+        }
+      ]
+    },
+    {
+      "name": "Wash Arm Bearing Ring & Spray Arm Seal",
+      "id": "WashArmBearing",
+      "content": "If your dishwasher is noisy, the cause could be a wash arm seal or bearing ring. These parts are plastic rings that support the wash arm or the spray arm and that the arm rotates on. Either of these parts could be loose or be worn, causing the spray arm to not function properly.\n\nHow to inspect your wash arm bearing ring & spray arm seal:\n\nWhile you will not be disassembling your appliance, we still recommend unplugging your appliance before beginning. Locate your wash arm bearing ring & spray arm seal. They will be found attached to the spray/wash arms. Visually inspect them for signs of wear, cracking, or damage. You may need to remove the spray/wash arms to fully inspect them, depending on your model. If you find signs of the above symptoms, you will need replacement wash arm bearing rings and/or spray arm seals.\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "While you will not be disassembling your appliance, we still recommend unplugging your appliance before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate your wash arm bearing ring & spray arm seal. They will be found attached to the spray/wash arms."
+        },
+        {
+          "title": "Step 3",
+          "content": "Visually inspect them for signs of wear, cracking, or damage. You may need to remove the spray/wash arms to fully inspect them, depending on your model."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find signs of the above symptoms, you will needreplacement wash arm bearing ringsand/orspray arm seals."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/343923_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402231_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402231_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement wash arm bearing rings",
+          "category": "Dishwasher Bearings",
+          "url": "https://www.partselect.com/Dishwasher-Bearings.htm"
+        },
+        {
+          "name": "spray arm seals.",
+          "category": "Dishwasher Bearings",
+          "url": "https://www.partselect.com/Dishwasher-Seals-and-Gaskets.htm"
+        }
+      ]
+    },
+    {
+      "name": "Spray Arms",
+      "id": "SprayArms",
+      "content": "Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub.\n\nHow to inspect dishwasher spray arms:\n\nFor safety, disconnect the power from your appliance before beginning. Manually spin your spray arms to ensure they are not hitting the racks and are turning freely. The spray arms should not be wobbly. Visually inspect your spray arms for any signs of wear, cracking, or damage. If you find any issues while performing the checks above, you will need replacement spray arms .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "For safety, disconnect the power from your appliance before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Manually spin your spray arms to ensure they are not hitting the racks and are turning freely. The spray arms should not be wobbly."
+        },
+        {
+          "title": "Step 3",
+          "content": "Visually inspect your spray arms for any signs of wear, cracking, or damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any issues while performing the checks above, you will needreplacement spray arms."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2100078_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2340930_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099972_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement spray arms",
+          "category": "Dishwasher Spray Arms",
+          "url": "https://www.partselect.com/Dishwasher-Spray-Arms.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "title": "How To Fix A Noisy Dishwasher",
+      "url": "https://www.youtube.com/watch?v=A8BeQ5qJyp4"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "Pump",
+      "name": "Pump"
+    },
+    {
+      "id": "WashArmBearing",
+      "name": "Wash Arm Bearing Ring & Spray Arm Seal"
+    },
+    {
+      "id": "SprayArms",
+      "name": "Spray Arms"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": [
+      {
+        "cause": "Defective pump",
+        "description": "The noisy dishwasher may be caused by a defective pump that pressurizes the spray arms and drains the water. The impellers in the pump driven by an electric motor could be the source of the noise."
+      },
+      {
+        "cause": "Loose or worn wash arm bearing ring & spray arm seal",
+        "description": "If the dishwasher is noisy, it could be due to loose or worn wash arm bearing rings or spray arm seals. These parts support the wash or spray arms and enable their rotation, contributing to the noise if they are damaged."
+      },
+      {
+        "cause": "Damaged spray arms",
+        "description": "Noise in the dishwasher may also stem from damaged spray arms that spray water and detergent around the dishwasher. If the spray arms are hitting the racks, wobbly, or showing signs of wear, cracking, or damage, they may need replacement."
+      }
+    ],
+    "tools_needed": [
+      "Multimeter",
+      "Replacement pump",
+      "Replacement wash arm bearing rings",
+      "Replacement spray arm seals",
+      "Replacement spray arms"
+    ],
+    "safety_precautions": [
+      "Unplug the dishwasher before testing electrical components.",
+      "Ensure power disconnection for safety before inspecting spray arms.",
+      "Handle all components with care to prevent electrical or mechanical hazards."
+    ],
+    "key_symptoms": [
+      {
+        "symptom": "Loud noise during dishwasher operation",
+        "possible_causes": "Defective pump"
+      },
+      {
+        "symptom": "Loud noise during dishwasher operation",
+        "possible_causes": "Loose or worn wash arm bearing ring & spray arm seal"
+      },
+      {
+        "symptom": "Loud noise during dishwasher operation",
+        "possible_causes": "Damaged spray arms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Light not working",
+  "symptom_id": "Light-Not-Working",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/",
+  "overview": "Learn how to fix the fridge when the light won't turn on but the door is opened.",
+  "repair_solutions": [
+    {
+      "name": "Light Bulb Or Lamp",
+      "id": "LightBulbOr",
+      "content": "Most light bulbs or lamps can be checked visually for a broken filament or can be checked with a multi-meter for continuity. You can also simply replace the bulb with a new one.\n\nHow to test a refrigerator lightbulb with a multi-meter .\n\nRemove the bulb from the refrigerator. Set your multi-meter to the Rx1 setting. Place one probe on the bottom of the lightbulb, and place the other on the threading of the bulb. If you receive a reading of infinity, you need a replacement lightbulb .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Remove the bulb from the refrigerator."
+        },
+        {
+          "title": "Step 2",
+          "content": "Set your multi-meter to the Rx1 setting."
+        },
+        {
+          "title": "Step 3",
+          "content": "Place one probe on the bottom of the lightbulb, and place the other on the threading of the bulb."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you receive a reading of infinity, you need areplacement lightbulb."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/453396_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1622119_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/396382_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement lightbulb",
+          "category": "Refrigerator Lights and Bulbs",
+          "url": "https://www.partselect.com/Refrigerator-Lights-and-Bulbs.htm"
+        }
+      ]
+    },
+    {
+      "name": "Light Sockets",
+      "id": "LightSockets",
+      "content": "If you have verified that the light bulb or lamp is not defective, then you should next inspect the socket.\n\nHow to inspect the light sockets of a refrigerator:\n\nUnplug your refrigerator before close inspection of the socket as this is a live voltage circuit. Inspect the socket for discolored terminals or heat damaged sockets that may prevent good connectivity to the light bulb or lamp. If you find either of the above, you need a replacement light socket .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator before close inspection of the socket as this is a live voltage circuit."
+        },
+        {
+          "title": "Step 2",
+          "content": "Inspect the socket for discolored terminals or heat damaged sockets that may prevent good connectivity to the light bulb or lamp."
+        },
+        {
+          "title": "Step 3",
+          "content": "If you find either of the above, you need areplacement light socket."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/371236_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/299782_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1570506_3_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement light socket",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Lights-and-Bulbs.htm"
+        }
+      ]
+    },
+    {
+      "name": "Door Light Switch",
+      "id": "DoorLight",
+      "content": "The interior light of your refrigerator is controlled by a switch that is activated when the door is opened and closed. If this switch malfunctions the light might not turn on consistently, if at all.\n\nHow to test a refrigerator door light switch with a multi-meter:\n\nUnplug your refrigerator and locate your door light switch. The location of the switch varies depending on the model of your refrigerator, but it is usually located somewhere near the top of the door opening. The switch is often mounted into the interior plastic liner and care should be taken when removing it to prevent damage to the liner. Remove the switch in order to test it. Set your multi-meter to the Rx1 setting to test the switch for continuity and place the probes on the switch\u2019s terminals. The multi-meter reading should change from infinity to a reading of zero. Keep the leads touching the terminals and press in on the switch. The reading should change back to infinity. If the results you receive are not consistent with these results, you need a replacement door switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Unplug your refrigerator and locate your door light switch. The location of the switch varies depending on the model of your refrigerator, but it is usually located somewhere near the top of the door opening. The switch is often mounted into the interior plastic liner and care should be taken when removing it to prevent damage to the liner."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the switch in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Set your multi-meter to the Rx1 setting to test the switch for continuity and place the probes on the switch\u2019s terminals. The multi-meter reading should change from infinity to a reading of zero. Keep the leads touching the terminals and press in on the switch. The reading should change back to infinity."
+        },
+        {
+          "title": "Step 4",
+          "content": "If the results you receive are not consistent with these results, you need areplacement door switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1483404_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/296126_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1570910_3_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement door switch",
+          "category": "Refrigerator Switches",
+          "url": "https://www.partselect.com/Refrigerator-Switches.htm"
+        }
+      ]
+    },
+    {
+      "name": "Light Bulb & Ice Dispenser",
+      "id": "LightBulbAnd",
+      "content": "If your model has an ice and water dispenser with a light bulb you should first verify that the bulb is good. These lights are normally low wattage and are not designed to be used as night lights. Extended periods of usage will typically cause premature failure of the bulb or damage to the socket. Most models will have an on/off switch on the control panel and that may be defective. You can check the switch for continuity with a multi-meter. The lamp or bulb socket may also be defective and the control plate will need to be removed for inspection.\n\nHow to test a refrigerator ice dispenser light on/off switch:\n\nDisconnect your refrigerator from the power source before beginning. Locate and remove your control panel cover to access the on/off switch. Remove the on/off switch from the appliance in order to test it. Set your multi-meter to the Rx1 setting and place the probes on the switch\u2019s terminals. You should receive a reading of zero. With the probes still on the terminals press in on the switch, the reading should change to infinity. If your tests produce results different from those above, you will need a replacement dispenser door switch .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Disconnect your refrigerator from the power source before beginning."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate and remove your control panel cover to access the on/off switch."
+        },
+        {
+          "title": "Step 3",
+          "content": "Remove the on/off switch from the appliance in order to test it."
+        },
+        {
+          "title": "Step 4",
+          "content": "Set your multi-meter to the Rx1 setting and place the probes on the switch\u2019s terminals. You should receive a reading of zero. With the probes still on the terminals press in on the switch, the reading should change to infinity."
+        },
+        {
+          "title": "Step 5",
+          "content": "If your tests produce results different from those above, you will need areplacement dispenser door switch."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/219861_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/396382_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/453396_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement dispenser door switch",
+          "category": "Refrigerator Lights and Bulbs",
+          "url": "https://www.partselect.com/Refrigerator-Switches.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "dGdrBnsEZug",
+      "url": "https://www.youtube.com/watch?v=dGdrBnsEZug",
+      "title": "How To Fix A Refrigerator Light That's Not Working"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "LightBulbOr",
+      "name": "Light Bulb Or Lamp"
+    },
+    {
+      "id": "LightSockets",
+      "name": "Light Sockets"
+    },
+    {
+      "id": "DoorLight",
+      "name": "Door Light Switch"
+    },
+    {
+      "id": "LightBulbAnd",
+      "name": "Light Bulb & Ice Dispenser"
+    }
+  ],
+  "structured_info": {
+    "root_cause_analysis": "The possible root causes for the refrigerator light not working include a faulty light bulb or lamp, defective light sockets, malfunctioning door light switch, or issues with the ice dispenser light on/off switch.",
+    "difficulty_level": "Medium",
+    "tools_needed": "Multi-meter",
+    "safety_precautions": [
+      "Unplug the refrigerator before working on the light components to avoid electrical shock.",
+      "Handle the components with care, especially when removing the door light switch to prevent damage to the refrigerator's liner."
+    ],
+    "key_symptoms": "The light inside the refrigerator does not turn on when the door is opened.",
+    "solutions": [
+      {
+        "solution": "Light Bulb Or Lamp",
+        "steps": [
+          "Check the light bulb visually for damage or test with a multi-meter for continuity.",
+          "Replace the bulb if needed."
+        ]
+      },
+      {
+        "solution": "Light Sockets",
+        "steps": [
+          "Inspect the socket for discolored terminals or damage that may affect connectivity.",
+          "Replace the socket if necessary."
+        ]
+      },
+      {
+        "solution": "Door Light Switch",
+        "steps": [
+          "Locate and remove the door light switch.",
+          "Test the switch for continuity using a multi-meter.",
+          "Replace the switch if the test results are inconsistent."
+        ]
+      },
+      {
+        "solution": "Light Bulb & Ice Dispenser",
+        "steps": [
+          "Verify the condition of the light bulb in the ice dispenser.",
+          "Check the on/off switch for continuity using a multi-meter.",
+          "Inspect the lamp or bulb socket for defects.",
+          "Replace the dispenser door switch if needed."
+        ]
+      }
+    ]
+  }
+}

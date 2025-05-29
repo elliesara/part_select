@@ -1,0 +1,167 @@
+{
+  "appliance_type": "Refrigerator",
+  "symptom": "Will not start",
+  "symptom_id": "Will-Not-Start",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/",
+  "overview": "Find out how to fix a fridge that will not start, by examining a few key parts such as the temperature control or the compressor overload relay.",
+  "repair_solutions": [
+    {
+      "name": "Overload Or Relay-Start Capacitor",
+      "id": "OverloadOrRelay-Start",
+      "content": "The overload relay is a protection device used in the compressor circuit on your refrigerator. Power is applied to the compressor motor windings through the overload device, and the relay is used to add the start winding in the circuit until the compressor is at running speed. If the fans are running and your compressor won\u2019t start or if you hear a clicking sound from the unit, check the overload relay for signs of overheating or arcing.\n\nHow to test a refrigerator\u2019s overload or relay-start capacitor with a multi-meter:\n\nBegin by ensuring you have unplugged your refrigerator, and then remove the rear panel. Locate and remove your overload or relay-start capacitor. On modern refrigerators the overload relay is usually a combined part and plugs directly onto the side of the compressor. There may also be a start capacitor attached to the relay overload assembly, which provides increased starting voltage to the compressor windings. To test, begin by discharging the capacitor, then set your multi-meter to the Rx1 setting and place the probes onto the terminals of the overload capacitor and/or the relay-start capacitor. The reading you should receive will vary from model to model, and may be indicated on the outside of the capacitor, or in your owner\u2019s manual. If your test does not produce the reading the manufacturer recommends, you need a replacement overload or relay-start capacitor . If your tests do produce the recommended readings you may have a defective compressor, which will need to be tested by a qualified professional as it is a live circuit test.\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Begin by ensuring you have unplugged your refrigerator, and then remove the rear panel."
+        },
+        {
+          "title": "Step 2",
+          "content": "Locate and remove your overload or relay-start capacitor. On modern refrigerators the overload relay is usually a combined part and plugs directly onto the side of the compressor. There may also be a start capacitor attached to the relay overload assembly, which provides increased starting voltage to the compressor windings."
+        },
+        {
+          "title": "Step 3",
+          "content": "To test, begin by discharging the capacitor, then set your multi-meter to the Rx1 setting and place the probes onto the terminals of the overload capacitor and/or the relay-start capacitor. The reading you should receive will vary from model to model, and may be indicated on the outside of the capacitor, or in your owner\u2019s manual."
+        },
+        {
+          "title": "Step 4",
+          "content": "If your test does not produce the reading the manufacturer recommends, you need areplacement overload or relay-start capacitor. If your tests do produce the recommended readings you may have a defective compressor, which will need to be tested by a qualified professional as it is a live circuit test."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2069268_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2064175_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/325424_1_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement overload or relay-start capacitor",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Compressors.htm"
+        }
+      ]
+    },
+    {
+      "name": "Cold Control & Temperature Control",
+      "id": "ColdControlAnd",
+      "content": "The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If your refrigerator won\u2019t start and no fans are running, then you may have a defective control.\n\nHow to test your fridge\u2019s cold control & temperature control with a multi-meter:\n\nAfter disconnecting your appliance from the power source, open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel. Remove the control from the fridge in order to test it. Using a multi-meter on the Rx1 setting, set your control to the lowest (warmest) setting, and place the probes on the terminals. You are testing for continuity and you should receive a reading of infinity. With the probes still on the terminals, adjust the control to higher (colder) and higher settings, your reading should then change to zero, indicating that you have continuity. If your control fails either of the tests above, you will need a replacement cold control & temperature control .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "After disconnecting your appliance from the power source, open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel."
+        },
+        {
+          "title": "Step 2",
+          "content": "Remove the control from the fridge in order to test it."
+        },
+        {
+          "title": "Step 3",
+          "content": "Using a multi-meter on the Rx1 setting, set your control to the lowest (warmest) setting, and place the probes on the terminals. You are testing for continuity and you should receive a reading of infinity."
+        },
+        {
+          "title": "Step 4",
+          "content": "With the probes still on the terminals, adjust the control to higher (colder) and higher settings, your reading should then change to zero, indicating that you have continuity."
+        },
+        {
+          "title": "Step 5",
+          "content": "If your control fails either of the tests above, you will need areplacement cold control & temperature control."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/472524_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/464475_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/426455_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement cold control & temperature control",
+          "category": "Refrigerator Parts",
+          "url": "https://www.partselect.com/Refrigerator-Thermostats.htm"
+        }
+      ]
+    },
+    {
+      "name": "Electronic Control Board",
+      "id": "ElectronicControl",
+      "content": "Some newer refrigerators are controlled by an Electronic Control Board that monitors temperatures and controls the compressor, fans and defrost system. If your refrigerator will not start, the control board could be at fault. Electronic controls are complex and expensive. You should first verify that there is no power being supplied to the compressor, that you have incoming power to the control board and that the external controls are functioning properly before condemning the electronic control.\n\nHow to inspect your refrigerator\u2019s electronic control board:\n\nEnsure that you have disconnected your appliance from the power before beginning as you will be handling electrical components. Open your refrigerator door to locate and remove the electronic control board from your appliance. It will be located inside the control box, which is usually found attached to the top or side of the fridge. Look on the control board for signs of arcing, burnt connections, damaged foil, wear, or any other damage. If you find any of the above, you need a replacement electronic control board .\n\n",
+      "repair_solutions": [
+        {
+          "title": "Step 1",
+          "content": "Ensure that you have disconnected your appliance from the power before beginning as you will be handling electrical components."
+        },
+        {
+          "title": "Step 2",
+          "content": "Open your refrigerator door to locate and remove the electronic control board from your appliance. It will be located inside the control box, which is usually found attached to the top or side of the fridge."
+        },
+        {
+          "title": "Step 3",
+          "content": "Look on the control board for signs of arcing, burnt connections, damaged foil, wear, or any other damage."
+        },
+        {
+          "title": "Step 4",
+          "content": "If you find any of the above, you need areplacement electronic control board."
+        }
+      ],
+      "images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180152_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180152_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1957100_2_N.JPG"
+      ],
+      "parts": [
+        {
+          "name": "replacement electronic control board",
+          "category": "Refrigerator Circuit Boards and Touch Pads",
+          "url": "https://www.partselect.com/Refrigerator-Circuit-Boards-and-Touch-Pads.htm"
+        }
+      ]
+    }
+  ],
+  "youtube_tutorials": [
+    {
+      "video_id": "dGdrBnsEZug",
+      "url": "https://www.youtube.com/watch?v=dGdrBnsEZug",
+      "title": "How To Fix A Refrigerator That Will Not Start"
+    }
+  ],
+  "parts_to_consider": [
+    {
+      "id": "OverloadOrRelay-Start",
+      "name": "Overload Or Relay-Start Capacitor"
+    },
+    {
+      "id": "ColdControlAnd",
+      "name": "Cold Control & Temperature Control"
+    },
+    {
+      "id": "ElectronicControl",
+      "name": "Electronic Control Board"
+    }
+  ],
+  "structured_info": {
+    "solutions": [
+      {
+        "title": "Overload Or Relay-Start Capacitor",
+        "root_cause": "Overheating or arcing in the overload relay or relay-start capacitor",
+        "difficulty": "Medium",
+        "tools_needed": "Multi-meter",
+        "safety_precautions": "Unplug the refrigerator before testing",
+        "key_symptoms": "Compressor won't start, clicking sound from the unit"
+      },
+      {
+        "title": "Cold Control & Temperature Control",
+        "root_cause": "Defective cold control or temperature control",
+        "difficulty": "Easy",
+        "tools_needed": "Multi-meter",
+        "safety_precautions": "Disconnect appliance from power source before testing",
+        "key_symptoms": "Refrigerator won't start, no fans running"
+      },
+      {
+        "title": "Electronic Control Board",
+        "root_cause": "Faulty electronic control board",
+        "difficulty": "Hard",
+        "tools_needed": "None specified",
+        "safety_precautions": "Ensure appliance is disconnected from power before inspection",
+        "key_symptoms": "Refrigerator will not start"
+      }
+    ]
+  }
+}
